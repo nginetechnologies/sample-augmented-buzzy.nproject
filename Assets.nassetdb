@@ -1,0 +1,1058 @@
+{
+    "00db0137-72bd-4d1f-9511-eb824757ba15": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/Animations/Walk.anim.nasset"
+    },
+    "0112e5f8-962b-848a-b7ad-6e8e07c52c77": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/woodPlatWideFlat7.mesh.nasset/woodPlatWideFlat7.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "017e969c-f7b4-51e9-2585-155fff0a7312": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/SK_Bee_Hardhat.mesh.nasset",
+        "thumbnail": "bbf35b58-ed3c-fd1e-4a5b-8def1cf0220c"
+    },
+    "0189facb-9813-b927-e4bf-59777b6cabd8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Buzzy/Buzzy_EnviroDiffuse.tex.nasset"
+    },
+    "01a0b738-9069-fdf9-68f0-b21ace2fd778": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_woodPlatWideRamp4.mesh.nasset.tex.nasset"
+    },
+    "03d73934-0fc1-4e84-288d-3233423d9fee": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/Thumbnails/SK_Bee_Hammer.mesh.nasset.tex.nasset"
+    },
+    "096bf901-bb9c-ac2d-783b-e84beaba8e1b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/SC_Buzzy_AR.scene.nasset",
+        "thumbnail": "231ee287-f3f5-ee38-763b-454692a04579"
+    },
+    "0ad0d9fa-4d06-48e2-fa41-5589ee877ed6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Buzzy/Buzzy_EnviroSpecular.tex.nasset"
+    },
+    "0bc41dcb-72a8-59f4-f067-95b46b6c82fe": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/pipeStraight8.mesh.nasset/pipeStraight8.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0cf4e33d-ab18-cabf-2695-9a84512a0675": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Bee/Scene/Material Instances/Thumbnails/M_Bee_Atlas.mtli.nasset.tex.nasset"
+    },
+    "120a9281-8809-6062-1797-885b35427b75": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/blockBrick.mesh.nasset/blockBrick.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "12230c36-9b1e-2a9c-db91-0b10ae620070": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/pipeStraight10.mesh.nasset/pipeStraight10 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "125f4de0-3b44-4466-0069-040436dd310a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/pipeStraight9.mesh.nasset/pipeStraight9 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1411e043-e772-5541-8cde-384407d7a351": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/SK_Bee_Hammer.meshskin.nasset"
+    },
+    "1480c302-36a0-298e-6e40-b69cebb09040": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Tree07.mesh.nasset/Tree07 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "15c2bc89-fa81-3c64-63af-50fdd4272cdb": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/SK_Bee_v2.scene.nasset",
+        "thumbnail": "32d3f9aa-fa3b-9727-98c9-9f7b3f4ca5c9"
+    },
+    "15e70000-214b-24d5-6f76-451af27468ed": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/woodPlatWideRamp3.mesh.nasset/woodPlatWideRamp3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "17e4a1ad-f094-7200-3d01-caba043d9414": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/pipeEnd2.mesh.nasset/pipeEnd2 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1af865f1-14d9-42d6-3c82-3719f72da631": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/M_Proxy.mtli.nasset.tex.nasset"
+    },
+    "20cd3543-218c-1fa0-94ad-1e3a558cd4c4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Crate.mesh.nasset/Crate Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "231ee287-f3f5-ee38-763b-454692a04579": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SC_Buzzy_AR.scene.nasset.tex.nasset"
+    },
+    "2462c733-4aa7-228c-427a-a236f200d6b2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/propBlock2x4.mesh.nasset/propBlock2x4 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "26986802-c4f5-9fb1-2db4-01026ffd2e75": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/woodPlatWideFlat6.mesh.nasset/woodPlatWideFlat6 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "272ced01-d6e9-c336-32fa-7be85f1748f2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_woodPlatWideFlat8.mesh.nasset.tex.nasset"
+    },
+    "27aa653a-a4b7-8d45-5ac7-9332a5bce808": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/blockBrick12.mesh.nasset/blockBrick12.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "27eb32c7-a480-b0d9-eee5-5c7ca82bb0ec": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Coin3.mesh.nasset/Coin3 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "2823b420-5c2f-2c72-7547-7ad0bde143b2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Coin2.mesh.nasset/Coin2 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "29d59412-ed15-bef4-5afa-7000b8f9217e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_woodPlatWideFlat7.mesh.nasset.tex.nasset"
+    },
+    "2af28ca8-7c20-d4eb-be85-5a86dcde1f2a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_woodPlatWideFlat5.mesh.nasset.tex.nasset"
+    },
+    "2b5d1a1e-4d97-a395-4e44-28f223874f25": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Tree07.mesh.nasset/Tree07.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2c5ecfde-e9e2-6a00-5258-4a557ba13086": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_blockBrick13.mesh.nasset.tex.nasset"
+    },
+    "2dd8e2cc-30f5-1094-3b03-2ee71726379e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/SK_Bee_Shoes.mesh.nasset",
+        "thumbnail": "8e9e6bd9-7d6c-dfad-1ba9-5f84b42ea974"
+    },
+    "32a95085-9d3a-ba97-204e-442a82800438": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/woodPlatWideRamp3.mesh.nasset/woodPlatWideRamp3 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "32d3f9aa-fa3b-9727-98c9-9f7b3f4ca5c9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/Thumbnails/SK_Bee_v2.scene.nasset.tex.nasset"
+    },
+    "33990d83-c050-b63d-98b4-ead54dc3c131": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/blockBrick10.mesh.nasset/blockBrick10.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "34df4f56-26a5-1558-4700-aa6ba586d557": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnails/Buzzy AR.scene.nasset.tex.nasset"
+    },
+    "34e08824-08aa-3ab7-2473-c38979b356f6": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/SK_Bee_Shoes.meshskin.nasset"
+    },
+    "35309ef7-ca70-b347-5005-4469956bcd8a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Coin3.mesh.nasset/Coin3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "35692bc9-0160-326e-dad3-676ea0480abc": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Buzzy Bee Enviro D.mtli.nasset",
+        "thumbnail": "83165211-7be0-77f7-7fe7-4643385f6aed"
+    },
+    "35b2e8e4-8047-c34d-b5db-7671b98f8666": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Mushroom01.mesh.nasset/Mushroom01.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "387c6844-f988-35b5-a2bc-2de7a4fa2cf4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/pipeElbow2.mesh.nasset/pipeElbow2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "39249461-ab45-3c67-c2f3-952c94fe5895": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Tree06.mesh.nasset/Tree06.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "3b1eb36c-2dfb-5b48-5099-fc7caf574eb3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/Thumbnails/SK_Bee_Teeth.mesh.nasset.tex.nasset"
+    },
+    "3b7c5ae8-d41e-77d8-bb1d-50ba80f94ede": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/SK_Bee_Belt.meshskin.nasset"
+    },
+    "3da967d9-6dde-7e12-602a-34efa3be63d3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/blockBrick13.mesh.nasset/blockBrick13.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "3db2b4dd-fb95-2e12-b7c1-59a085832169": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/signArrow.mesh.nasset/signArrow Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3f4f56f1-8d7b-f5ab-d5c3-d14009268d02": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/SK_Bee_Hardhat.meshskin.nasset"
+    },
+    "401a4826-42b9-78fe-ecc7-462b118ccbc5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/propBlock2x4.mesh.nasset/propBlock2x4.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "417b017b-aad2-4509-625c-a26e32017018": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Mushroom01.mesh.nasset/Mushroom01 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4363d54e-19c0-76a9-8c80-0f6c5c02f6fb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/Thumbnails/SK_Bee_Belt.mesh.nasset.tex.nasset"
+    },
+    "4518d266-8cca-d9a2-4d5e-73bf257321ae": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/Thumbnails/SK_Bee_Vest.mesh.nasset.tex.nasset"
+    },
+    "493e5bab-2b03-0cbc-ffad-bc006d1d11de": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/SK_Bee_Vest.meshskin.nasset"
+    },
+    "4962c581-8635-7dbc-3d63-89e8fdc5109c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/woodPlatWideFlat7.mesh.nasset/woodPlatWideFlat7 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "496f32d2-1417-631f-02c4-3ccacee5589b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/blockBrick14.mesh.nasset/blockBrick14 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4b171997-738d-ed33-9981-e68c773d624e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/pipeStraight6.mesh.nasset/pipeStraight6 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4c8e74fe-1226-9d9c-9aba-1fab43b2ba4d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/M_Blank_Floor.mtli.nasset.tex.nasset"
+    },
+    "52b74abf-d387-b19a-3b5a-5304496dedf2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_woodPlatWideRamp3.mesh.nasset.tex.nasset"
+    },
+    "537bb42c-1aa0-fbf3-66fd-5a06ccbcb310": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/pipeEnd1.mesh.nasset/pipeEnd1 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5442b6a5-12c1-7b90-e521-1d11f1c9281f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_pipeStraight.mesh.nasset.tex.nasset"
+    },
+    "544917d0-efc8-ba1f-ff5d-ab7f6c8d0108": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Mushroom04.mesh.nasset/Mushroom04.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "562ac358-c7c0-61bf-0723-269570863756": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/SK_Bee_Body.meshskin.nasset"
+    },
+    "564fc2d1-fbb8-6d8d-81ba-0c034b13b195": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Tree09.mesh.nasset/Tree09 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "596fd65b-7dd2-434d-9e8f-6b8919d35ca9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Buzzy_AR_Thumb.tex.nasset"
+    },
+    "597ef9e9-ac4f-2b21-0f89-62a0d8d19a9a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_Coin3.mesh.nasset.tex.nasset"
+    },
+    "5f7afb3c-3280-6e79-4e67-00a9481643da": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/pipeStraight9.mesh.nasset/pipeStraight9.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "6105cb5a-ea19-b2b9-8b4f-605db3d6ba0c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/SK_Bee_Vest.mesh.nasset",
+        "thumbnail": "4518d266-8cca-d9a2-4d5e-73bf257321ae"
+    },
+    "615bb24c-7b05-110a-09e5-324f79d8dcf7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/blockBrick11.mesh.nasset/blockBrick11 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "61afbaf8-5afd-df86-3d94-b0385559c78d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_pipeStraight9.mesh.nasset.tex.nasset"
+    },
+    "63b43253-92ba-8051-fb21-6340e69ab1a8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/woodPlatWideFlat5.mesh.nasset/woodPlatWideFlat5 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "663fb5e5-111e-0e69-b40b-b3a274604e5e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_Mushroom01.mesh.nasset.tex.nasset"
+    },
+    "66e73c48-a871-121e-1c83-fb42670635e0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/pipeElbow.mesh.nasset/pipeElbow.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "699e4d5c-14db-56a3-91e4-cf0d51085103": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/woodPlatWideFlat8.mesh.nasset/woodPlatWideFlat8 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "69c6707c-b62e-7bad-aaf1-a63ab5458b57": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_Mushroom02.mesh.nasset.tex.nasset"
+    },
+    "69e511f5-9ea2-406a-d012-b6edd9da34a2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/pipeElbow.mesh.nasset/pipeElbow Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6b26f0db-41f1-05ad-43e2-918ca3eca30d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_pipeStraight6.mesh.nasset.tex.nasset"
+    },
+    "6b6f587b-f2b8-c854-5dbc-11d6e34bfb81": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_propBlock2x2.mesh.nasset.tex.nasset"
+    },
+    "6d38adce-08da-ec85-4cab-9ad497a3225b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/SK_Bee_Hammer.mesh.nasset",
+        "thumbnail": "03d73934-0fc1-4e84-288d-3233423d9fee"
+    },
+    "6d853fa3-8118-da1a-7c5b-822926c9bf93": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_blockBrick12.mesh.nasset.tex.nasset"
+    },
+    "6ebe6d22-c66c-a014-09c7-a52122f472e3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_woodPlatWideFlat6.mesh.nasset.tex.nasset"
+    },
+    "6fef2ba7-6749-78dd-8ffd-4d5f30dbe24b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/pipeStraight7.mesh.nasset/pipeStraight7 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7067713b-1e49-34f6-b546-78602c8f7fdd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Crate.mesh.nasset/Crate.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "71b1fbd6-c3ee-0e49-67c4-11110281b77a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Tree09.mesh.nasset/Tree09.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "71ce7ece-8029-9250-48ec-bd8b14b2aa75": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/woodPlatWideRamp2.mesh.nasset/woodPlatWideRamp2 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "72aee1e1-dc97-023a-e850-8523b7b536fe": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/pipeStraight.mesh.nasset/pipeStraight Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7324f25e-d5b1-ea3b-024f-3c9b58171ca0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_Tree05.mesh.nasset.tex.nasset"
+    },
+    "744a4be5-89ad-63ac-777b-5b8d34d11f11": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_pipeElbow.mesh.nasset.tex.nasset"
+    },
+    "74fb0e7c-351a-859c-ac0d-7def6e427c0c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Grid_Black_D.tex.nasset"
+    },
+    "7603d4d8-3d8f-114f-ab60-fbe7ff3529be": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_pipeStraight7.mesh.nasset.tex.nasset"
+    },
+    "78871c36-d6b2-56c7-f342-8c2f8765ab44": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/woodPlatWideFlat4.mesh.nasset/woodPlatWideFlat4.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7ab1a7d3-76fe-cf1f-7a09-a996b4dc53ae": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Coin2.mesh.nasset/Coin2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7be69c1d-d81a-6083-3dca-736d5f670a95": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/woodPlatWideRamp4.mesh.nasset/woodPlatWideRamp4 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7d4a1bc6-8deb-2ba9-7087-1e5e5f290ee7": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/SK_Bee_Wings.meshskin.nasset"
+    },
+    "8037574e-40ef-e1b2-336d-92a6eb7adef2": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/Animations/Idle.anim.nasset"
+    },
+    "81e88c27-0186-d216-78d8-8316ef797630": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Tree06.mesh.nasset/Tree06 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "83165211-7be0-77f7-7fe7-4643385f6aed": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Material Instances/Thumbnails/M_Buzzy_Bee_Enviro_D.mtli.nasset.tex.nasset"
+    },
+    "837c08c1-99a4-6e88-6242-8eeaf583d758": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_blockBrick.mesh.nasset.tex.nasset"
+    },
+    "84d1b7ec-146c-7fb2-f4fd-678241bbc54a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_signArrow.mesh.nasset.tex.nasset"
+    },
+    "851d62a3-8b27-4832-5738-53a94a175441": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Bee/Scene/Textures/T_Bee_Atlas_D.tex.nasset"
+    },
+    "8aa82a35-71a3-a3aa-41e7-d605421cc4b7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_Mushroom04.mesh.nasset.tex.nasset"
+    },
+    "8e9e6bd9-7d6c-dfad-1ba9-5f84b42ea974": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/Thumbnails/SK_Bee_Shoes.mesh.nasset.tex.nasset"
+    },
+    "8ebc36da-b42b-e486-3b6d-3fd5217e3d06": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/Animations/Jump_Loop.anim.nasset"
+    },
+    "9077a9dd-b911-ff58-2c22-722b9a1801fc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/blockBrick10.mesh.nasset/blockBrick10 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "924a3507-9cfd-ad9b-16f9-56ff78fb3596": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/propBlock2x3.mesh.nasset/propBlock2x3 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9439e7fa-a1fe-b63d-7ae5-f1393c2aea15": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/pipeStraight6.mesh.nasset/pipeStraight6.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "96711cff-30a9-fc43-48ac-9c08562b7dbd": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Bee/Scene/Material Instances/M_Bee_Atlas.mtli.nasset",
+        "thumbnail": "0cf4e33d-ab18-cabf-2695-9a84512a0675"
+    },
+    "96a156c8-2d44-84da-5760-b29e1b4429da": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/blockBrick12.mesh.nasset/blockBrick12 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "96f14242-5ca9-9cb5-dbd1-fb9308dc6773": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/pipeStraight7.mesh.nasset/pipeStraight7.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "97c646cc-1c38-cccb-7dd5-7bb5e9a923ee": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_woodPlatWideRamp2.mesh.nasset.tex.nasset"
+    },
+    "9936e028-367f-abff-bb1f-95b525883e66": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Mushroom02.mesh.nasset/Mushroom02.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9a573659-a3be-8a9a-2adb-e823e159e375": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/woodPlatWideRamp4.mesh.nasset/woodPlatWideRamp4.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9b968cd6-d948-249f-38ce-63bc07ccd6af": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/woodPlatWideFlat4.mesh.nasset/woodPlatWideFlat4 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9c369f62-e329-c1af-070f-36255bd4e7aa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/SK_Bee_Body.mesh.nasset",
+        "thumbnail": "e914f9dd-217f-b677-c794-74afe15f158f"
+    },
+    "9e2a793b-8ff7-f993-25ab-f3f4542f5cfb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Buzzy/Buzzy_EnviroBRDF.tex.nasset"
+    },
+    "9f8f19fe-2279-41e3-e8eb-9eba45a4fef2": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/Animations/Jump_End.anim.nasset"
+    },
+    "a09edd75-cae7-48ef-655d-68e17d5407b1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/woodPlatWideFlat8.mesh.nasset/woodPlatWideFlat8.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a1e16e9a-653c-45c1-faf8-20df919f67c6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_propBlock2x4.mesh.nasset.tex.nasset"
+    },
+    "a226dccf-5077-097d-b236-482d0e485525": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_pipeStraight8.mesh.nasset.tex.nasset"
+    },
+    "a3533243-5f00-0fbb-e065-57f82a5aa406": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/propBlock2x2.mesh.nasset/propBlock2x2 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a47353fc-289c-d5bf-2671-e5ed0f9bcde2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_blockQuestion.mesh.nasset.tex.nasset"
+    },
+    "a70aac36-76ff-9310-2982-ad1cf4edbb61": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/signArrow.mesh.nasset/signArrow.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ad22abd6-8aec-f337-9eb0-dff4c8e7bb33": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Tree05.mesh.nasset/Tree05.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b3229638-30c4-0552-54bb-9515f753480b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/blockBrick14.mesh.nasset/blockBrick14.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b581d3d1-a43e-65be-82f9-eb4db3c1263d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/SK_Bee_Belt.mesh.nasset",
+        "thumbnail": "4363d54e-19c0-76a9-8c80-0f6c5c02f6fb"
+    },
+    "b611b96b-5618-6111-ab9f-d1c906fda4d2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_Coin2.mesh.nasset.tex.nasset"
+    },
+    "b6f16cc6-5d26-b171-64ee-1da8fa0fdc8b": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "b75eb991-4052-fd36-48c1-7ecdfe08e5aa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/pipeElbow2.mesh.nasset/pipeElbow2 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "bbf35b58-ed3c-fd1e-4a5b-8def1cf0220c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/Thumbnails/SK_Bee_Hardhat.mesh.nasset.tex.nasset"
+    },
+    "bc7f1e49-6207-5633-12df-609f0ddece53": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_Coin4.mesh.nasset.tex.nasset"
+    },
+    "be58f664-3074-afaf-7635-467a52758b59": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/pipeEnd2.mesh.nasset/pipeEnd2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "be6d6eb3-7444-49cf-8641-9433290804ec": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "thumbnail": "596fd65b-7dd2-434d-9e8f-6b8919d35ca9"
+    },
+    "c47d1b52-ba6f-854a-4295-76f736f05c78": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_propBlock2x3.mesh.nasset.tex.nasset"
+    },
+    "c58e088b-fb06-3f92-f465-f9535a42c8e9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/Thumbnails/SK_Bee_Wings.mesh.nasset.tex.nasset"
+    },
+    "c85b33e2-cc94-47ef-8553-9948bd3845c4": {
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Spline Assets/PaintedSceneSpline.scene.nasset"
+    },
+    "cc2689c0-a36a-333f-54fb-f1eb2bedd660": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Buzzy/Buzzy_Enviro.tex.nasset"
+    },
+    "cfc33971-b06c-7106-3d96-ec50738955b7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Buzzy_Bee_Enviro_D.tex.nasset"
+    },
+    "d3d5885a-9dde-5e28-cfbd-36ea9f5f4537": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/SK_Bee_Wings.mesh.nasset",
+        "thumbnail": "c58e088b-fb06-3f92-f465-f9535a42c8e9"
+    },
+    "d4240622-dc2e-1072-bbb3-d7cfd82aed6e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/pipeStraight8.mesh.nasset/pipeStraight8 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d4f7e850-bf8f-e733-9c39-2dbc55693c2a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_blockBrick10.mesh.nasset.tex.nasset"
+    },
+    "d57b13f7-8c57-a16e-43ab-1175084001b3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Mushroom02.mesh.nasset/Mushroom02 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d5ee4fc9-4b97-07c3-dafe-d7d55af27675": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/pipeEnd1.mesh.nasset/pipeEnd1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d6ea29fd-4656-e250-65c4-1510ace7b696": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/woodPlatWideFlat5.mesh.nasset/woodPlatWideFlat5.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d91652ab-07a1-5625-9526-9183169025c5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/Animations/Run.anim.nasset"
+    },
+    "dae5c2be-efe8-9c42-3991-45b004e233d7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/woodPlatWideFlat6.mesh.nasset/woodPlatWideFlat6.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "dc0595ed-70ae-9233-082a-e234c6f450a7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/blockBrick13.mesh.nasset/blockBrick13 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "dd26219f-04b7-bc9e-8395-8b76b1d4a985": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_pipeElbow2.mesh.nasset.tex.nasset"
+    },
+    "e08988c8-6eea-f747-09c5-bda46b36da0a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_blockBrick11.mesh.nasset.tex.nasset"
+    },
+    "e09e39d1-4a03-463e-8992-7af92a06ed5c": {
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Buzzy AR.scene.nasset",
+        "thumbnail": "34df4f56-26a5-1558-4700-aa6ba586d557"
+    },
+    "e2581f3e-b4ac-f886-2458-507d4fa384d0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/propBlock2x2.mesh.nasset/propBlock2x2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e2d80f8c-4bb3-76f2-a3d3-0fe318c1881d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/propBlock2x3.mesh.nasset/propBlock2x3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e3342cc0-75de-00af-2647-1680b916042e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/pipeStraight.mesh.nasset/pipeStraight.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e3fff3a0-c7d2-4a9f-ae9f-afe7320c88da": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_Tree06.mesh.nasset.tex.nasset"
+    },
+    "e41fdd95-eb3b-3b67-ec26-bc958c14239f": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/SK_Bee_Teeth.meshskin.nasset"
+    },
+    "e4a6ac14-5784-340e-6bb8-c1c9c07f8b82": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Mushroom04.mesh.nasset/Mushroom04 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e865b0ff-e66b-2800-fc0f-5f7725471dbb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_blockBrick14.mesh.nasset.tex.nasset"
+    },
+    "e8943289-cdf4-6820-fbbe-b7f72c4692a5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_pipeEnd2.mesh.nasset.tex.nasset"
+    },
+    "e8a3cd4b-e86e-16cd-3b03-1bb35d3cc170": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Coin4.mesh.nasset/Coin4 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e914f9dd-217f-b677-c794-74afe15f158f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/Thumbnails/SK_Bee_Body.mesh.nasset.tex.nasset"
+    },
+    "e95160b5-9f01-a360-4319-88759e54333f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Player/Thumbnails/Player.scene.nasset.tex.nasset"
+    },
+    "e9bb8c76-3c33-15e1-6293-d16e23f1d88b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/blockBrick.mesh.nasset/blockBrick Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e9e73738-452c-c6e0-0e0d-17fb9842006a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Tree05.mesh.nasset/Tree05 Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ea8b0de8-81ab-8ccb-d7ee-43c034f2170e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/pipeStraight10.mesh.nasset/pipeStraight10.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "eb829376-fb7c-c75b-c335-5c54aa15d650": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_woodPlatWideFlat4.mesh.nasset.tex.nasset"
+    },
+    "ec66ce19-1e67-478b-a8e6-07b9cf74df4c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Player/Player.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
+    "edf027a0-d7b4-9000-3c81-6b13b4d025ad": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/blockQuestion.mesh.nasset/blockQuestion Buzzy Bee Enviro D.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ee5276ec-25d3-3dfd-7d94-bf331cd22b82": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/woodPlatWideRamp2.mesh.nasset/woodPlatWideRamp2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "efeb2010-b17e-64b6-fa91-f8f8d3a4d2ea": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/blockBrick11.mesh.nasset/blockBrick11.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f0e3647c-c7d3-e40a-e8da-356393858544": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/Animations/Jump_Start.anim.nasset"
+    },
+    "f37fc4e8-5dbc-1b5f-666e-4f650e59e177": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_pipeEnd1.mesh.nasset.tex.nasset"
+    },
+    "f8fe2178-0658-09c0-f38c-a92a4a7aedfd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/blockQuestion.mesh.nasset/blockQuestion.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f991a8d8-70c7-fb49-22b5-2933516d1bb7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_Tree07.mesh.nasset.tex.nasset"
+    },
+    "fa8f4b24-fa21-300c-9f04-f0a820a54657": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Thumbnails/SM_pipeStraight10.mesh.nasset.tex.nasset"
+    },
+    "fbfa7c9a-70d5-2a77-9828-113deedd221c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/SK_Bee_Teeth.mesh.nasset",
+        "thumbnail": "3b1eb36c-2dfb-5b48-5099-fc7caf574eb3"
+    },
+    "fd3d7230-3d1d-7d58-a56d-699f52ced94d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Buzzy_AR.scene.nasset/Coin4.mesh.nasset/Coin4.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    }
+}

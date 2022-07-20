@@ -1,0 +1,1241 @@
+{
+    "guid": "e09e39d1-4a03-463e-8992-7af92a06ed5c",
+    "typeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+    "instanceGuid": "48675f12-ebc9-0b9d-e43c-734fffab63ad",
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 4096.0
+    },
+    "data_components": [
+        {
+            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
+        }
+    ],
+    "children": [
+        {
+			"typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+			"instanceGuid": "7a6a2110-bef5-1db6-6092-d36481bc2746",
+			"data_components": [
+				{
+					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+					"name": "GRP Trees"
+				}
+			],
+			"children": [
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "016541cd-dbf6-9681-6815-edd2eb4bc3d4",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Tree09"
+						}
+					],
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "71b1fbd6-c3ee-0e49-67c4-11110281b77a"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "a0f2a770-2469-2246-ed63-65947ebd952f",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Tree07"
+						}
+					],
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "2b5d1a1e-4d97-a395-4e44-28f223874f25"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "5dcc485d-fa06-12fa-3ec7-0cf8603f7ebb",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Tree06"
+						}
+					],
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "39249461-ab45-3c67-c2f3-952c94fe5895"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "d1885ea9-5639-0348-cfa5-c42248f7b5e9",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Tree05"
+						}
+					],
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "ad22abd6-8aec-f337-9eb0-dff4c8e7bb33"
+					}
+				}
+			]
+		},
+		{
+			"typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+			"instanceGuid": "1284da5e-3e72-c144-6724-9cfa166bb299",
+			"data_components": [
+				{
+					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+					"name": "GRP Bricks"
+				}
+			],
+			"children": [
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "4d4eaf04-46cf-88ab-8d3e-01e6f634910a",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "blockQuestion"
+						}
+					],
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "f8fe2178-0658-09c0-f38c-a92a4a7aedfd"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "f2874039-1032-ec7f-36df-accf2ea8edb1",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "blockBrick"
+						}
+					],
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							0.0,
+							8.9978,
+							1.9995
+						]
+					},
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "120a9281-8809-6062-1797-885b35427b75"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "f84442f8-a824-6689-0c1a-50fe2a89d89f",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "blockBrick10"
+						}
+					],
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							0.0,
+							10.9973,
+							1.9995
+						]
+					},
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "33990d83-c050-b63d-98b4-ead54dc3c131"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "7dfa2e9b-aa7a-db96-8f39-da6f7656387a",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "blockBrick11"
+						}
+					],
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							0.0,
+							11.997,
+							1.9995
+						]
+					},
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "efeb2010-b17e-64b6-fa91-f8f8d3a4d2ea"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "be090664-9494-ed99-9615-0068bc457047",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "blockBrick12"
+						}
+					],
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							0.0,
+							13.9965,
+							1.9995
+						]
+					},
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "27aa653a-a4b7-8d45-5ac7-9332a5bce808"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "fbdb4666-201e-093c-ddc8-4079e64c2ce2",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "blockBrick13"
+						}
+					],
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							0.0,
+							12.9968,
+							1.9995
+						]
+					},
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "3da967d9-6dde-7e12-602a-34efa3be63d3"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "88252abf-2a8f-5b86-d533-6e38784c90fe",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "blockBrick14"
+						}
+					],
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							0.0,
+							9.9975,
+							1.9995
+						]
+					},
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "b3229638-30c4-0552-54bb-9515f753480b"
+					}
+				}
+			]
+		},
+		{
+			"typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+			"instanceGuid": "2ca0a0ed-12f8-14b7-a566-99a38dda6050",
+			"data_components": [
+				{
+					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+					"name": "GRP Piping"
+				}
+			],
+			"children": [
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "9d5ffad7-dc19-7515-1f87-e6016a7b102b",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Mushroom01"
+						}
+					],
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							-5.4986,
+							-5.4986,
+							-0.0
+						],
+						"scale": [
+							0.5
+						]
+					},
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "35b2e8e4-8047-c34d-b5db-7671b98f8666"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "c47b034f-5212-6216-6cae-0ddc83401b06",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Mushroom02"
+						}
+					],
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "9936e028-367f-abff-bb1f-95b525883e66"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "a445271a-2ee6-f33c-5f46-204a4072dd27",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Crate"
+						}
+					],
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "7067713b-1e49-34f6-b546-78602c8f7fdd"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "3f0e71ca-ba2a-1e82-6db5-f7d3be79aa7c",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Mushroom04"
+						}
+					],
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							-4.9987,
+							-5.9985,
+							-0.0
+						],
+						"scale": [
+							0.5
+						]
+					},
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "544917d0-efc8-ba1f-ff5d-ab7f6c8d0108"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "1bf1fb9c-2b3a-b092-c22b-0d9806d1467d",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "pipeEnd2"
+						}
+					],
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							-6.9982,
+							-5.4986,
+							0.9997
+						],
+						"scale": [
+							2.0
+						]
+					},
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "be58f664-3074-afaf-7635-467a52758b59"
+					}
+				},
+				{
+					"typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+					"instanceGuid": "e7bba413-bb13-de20-22e3-f3ad80a42686",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Long Pipe"
+						}
+					],
+					"children": [
+						{
+							"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+							"instanceGuid": "b041297f-9aad-c082-09f7-63ef38901b20",
+							"data_components": [
+								{
+									"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+									"name": "pipeStraight"
+								}
+							],
+							"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+								"position": [
+									7.998,
+									14.9963,
+									10.9973
+								],
+								"rotation": [
+									90.0,
+									-0.0,
+									0.0
+								],
+								"scale": [
+									2.0
+								]
+							},
+							"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+								"scene": "e3342cc0-75de-00af-2647-1680b916042e"
+							}
+						},
+						{
+							"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+							"instanceGuid": "c9ee2f4c-f453-9a4b-c696-422e576b8bc2",
+							"data_components": [
+								{
+									"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+									"name": "pipeElbow"
+								}
+							],
+							"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+								"position": [
+									7.998,
+									12.9968,
+									10.9973
+								],
+								"rotation": [
+									-179.9999,
+									-0.0,
+									-89.9999
+								],
+								"scale": [
+									1.9999
+								]
+							},
+							"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+								"scene": "66e73c48-a871-121e-1c83-fb42670635e0"
+							}
+						},
+						{
+							"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+							"instanceGuid": "bed8f2b8-9b69-826d-a5d0-f7621cbac3a2",
+							"data_components": [
+								{
+									"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+									"name": "pipeEnd1"
+								}
+							],
+							"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+								"position": [
+									7.998,
+									12.9968,
+									8.9978
+								],
+								"rotation": [
+									-179.9999,
+									-0.0,
+									-0.0
+								],
+								"scale": [
+									2.0
+								]
+							},
+							"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+								"scene": "d5ee4fc9-4b97-07c3-dafe-d7d55af27675"
+							}
+						},
+						{
+							"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+							"instanceGuid": "388ce48b-fb62-33e4-a933-791dafb280ea",
+							"data_components": [
+								{
+									"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+									"name": "pipeStraight6"
+								}
+							],
+							"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+								"position": [
+									7.998,
+									16.9958,
+									0.9997
+								],
+								"rotation": [
+									-179.9999,
+									-0.0,
+									-0.0
+								],
+								"scale": [
+									2.0
+								]
+							},
+							"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+								"scene": "9439e7fa-a1fe-b63d-7ae5-f1393c2aea15"
+							}
+						},
+						{
+							"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+							"instanceGuid": "9f229225-cbe7-934b-feeb-fc1e93a1a024",
+							"data_components": [
+								{
+									"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+									"name": "pipeStraight7"
+								}
+							],
+							"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+								"position": [
+									7.998,
+									16.9958,
+									2.9992
+								],
+								"rotation": [
+									-179.9999,
+									-0.0,
+									-0.0
+								],
+								"scale": [
+									2.0
+								]
+							},
+							"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+								"scene": "96f14242-5ca9-9cb5-dbd1-fb9308dc6773"
+							}
+						},
+						{
+							"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+							"instanceGuid": "d21a66f0-a803-9adf-0473-7bd1cfa6106e",
+							"data_components": [
+								{
+									"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+									"name": "pipeStraight8"
+								}
+							],
+							"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+								"position": [
+									7.998,
+									16.9958,
+									4.9987
+								],
+								"rotation": [
+									-179.9999,
+									-0.0,
+									-0.0
+								],
+								"scale": [
+									2.0
+								]
+							},
+							"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+								"scene": "0bc41dcb-72a8-59f4-f067-95b46b6c82fe"
+							}
+						},
+						{
+							"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+							"instanceGuid": "df8f9acf-bf92-1a72-98ee-ec4fe091f76c",
+							"data_components": [
+								{
+									"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+									"name": "pipeStraight9"
+								}
+							],
+							"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+								"position": [
+									7.998,
+									16.9958,
+									6.9982
+								],
+								"rotation": [
+									-179.9999,
+									-0.0,
+									-0.0
+								],
+								"scale": [
+									2.0
+								]
+							},
+							"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+								"scene": "5f7afb3c-3280-6e79-4e67-00a9481643da"
+							}
+						},
+						{
+							"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+							"instanceGuid": "91c86f9a-3232-ddc1-2c62-e5c8d434ec61",
+							"data_components": [
+								{
+									"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+									"name": "pipeStraight10"
+								}
+							],
+							"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+								"position": [
+									7.998,
+									16.9958,
+									8.9978
+								],
+								"rotation": [
+									-179.9999,
+									-0.0,
+									-0.0
+								],
+								"scale": [
+									2.0
+								]
+							},
+							"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+								"scene": "ea8b0de8-81ab-8ccb-d7ee-43c034f2170e"
+							}
+						},
+						{
+							"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+							"instanceGuid": "d5fd8fa3-6727-c9fe-6ff7-cfcf469668e9",
+							"data_components": [
+								{
+									"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+									"name": "pipeElbow2"
+								}
+							],
+							"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+								"position": [
+									7.998,
+									16.9958,
+									10.9973
+								],
+								"rotation": [
+									0.0,
+									-90.0,
+									90.0
+								],
+								"scale": [
+									2.0
+								]
+							},
+							"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+								"scene": "387c6844-f988-35b5-a2bc-2de7a4fa2cf4"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+			"instanceGuid": "fdd5b57d-f80b-70d8-fbec-eb422ce2b456",
+			"data_components": [
+				{
+					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+					"name": "GRP Blocks"
+				}
+			],
+			"children": [
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "df5e962d-6ad3-d64c-fd1b-41f65ea3d7ed",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "propBlock2x4"
+						}
+					],
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "401a4826-42b9-78fe-ecc7-462b118ccbc5"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "f69b963f-7136-6b52-9c1e-ae30a7b9611b",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "propBlock2x3"
+						}
+					],
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "e2d80f8c-4bb3-76f2-a3d3-0fe318c1881d"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "d3673bbe-09be-e44b-b4c7-275d9428fd77",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "propBlock2x2"
+						}
+					],
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "e2581f3e-b4ac-f886-2458-507d4fa384d0"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "cfe89936-377c-c9b5-4cbc-e1a2bdaf1e47",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "signArrow"
+						}
+					],
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "a70aac36-76ff-9310-2982-ad1cf4edbb61"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "d6b1fdff-d018-3124-dbd4-eebcfeec409c",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Coin2"
+						}
+					],
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							-7.4981,
+							2.4993,
+							10.4974
+						],
+						"rotation": [
+							0.0,
+							-0.0,
+							89.9999
+						]
+					},
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "7ab1a7d3-76fe-cf1f-7a09-a996b4dc53ae"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "1731ceff-2cf8-4acc-fe63-357fb0c0bd2d",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Coin3"
+						}
+					],
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							7.998,
+							-2.4993,
+							7.4981
+						],
+						"rotation": [
+							0.0,
+							-0.0,
+							89.9999
+						]
+					},
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "35309ef7-ca70-b347-5005-4469956bcd8a"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "5e2b492a-fd16-bf72-7e7d-ed0267bccb44",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Coin4"
+						}
+					],
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							7.998,
+							1.9995,
+							8.9978
+						],
+						"rotation": [
+							0.0,
+							-0.0,
+							89.9999
+						]
+					},
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "fd3d7230-3d1d-7d58-a56d-699f52ced94d"
+					}
+				}
+			]
+		},
+		{
+			"typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+			"instanceGuid": "1a96cb69-c67e-5cdf-3e89-89a373263214",
+			"data_components": [
+				{
+					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+					"name": "GRP Platforms"
+				}
+			],
+			"children": [
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "eb0d4c4b-f5ec-2002-e0a7-ef3dd9de8f50",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "woodPlatWideRamp2"
+						}
+					],
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							-7.4981,
+							5.4986,
+							5.9985
+						],
+						"rotation": [
+							0.0,
+							-0.0,
+							-89.9999
+						]
+					},
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "ee5276ec-25d3-3dfd-7d94-bf331cd22b82"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "8d1f223b-489e-d2a3-9048-6983324e75ae",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "woodPlatWideRamp3"
+						}
+					],
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							-7.4981,
+							1.9995,
+							0.9997
+						],
+						"rotation": [
+							0.0,
+							-0.0,
+							89.9999
+						]
+					},
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "15e70000-214b-24d5-6f76-451af27468ed"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "d6862d47-48a8-3b75-42cd-020737b24cf1",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "woodPlatWideRamp4"
+						}
+					],
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							-7.4981,
+							7.998,
+							3.0983
+						],
+						"rotation": [
+							0.0,
+							-0.0,
+							89.9999
+						]
+					},
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "9a573659-a3be-8a9a-2adb-e823e159e375"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "28b534e1-292d-cda5-c9d0-d954605f5da2",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "woodPlatWideFlat4"
+						}
+					],
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							-7.4981,
+							1.9995,
+							7.0283
+						],
+						"rotation": [
+							0.0,
+							-0.0,
+							-89.9999
+						]
+					},
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "78871c36-d6b2-56c7-f342-8c2f8765ab44"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "b18c17f0-59b0-20e4-7499-80cc94ecd823",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "woodPlatWideFlat5"
+						}
+					],
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							-7.4981,
+							4.4989,
+							1.9995
+						],
+						"rotation": [
+							0.0,
+							-0.0,
+							-89.9999
+						]
+					},
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "d6ea29fd-4656-e250-65c4-1510ace7b696"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "106f57cf-f5a4-7c59-5136-73c2320348c5",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "woodPlatWideFlat6"
+						}
+					],
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							-7.4981,
+							5.4986,
+							1.9995
+						],
+						"rotation": [
+							0.0,
+							-0.0,
+							-89.9999
+						]
+					},
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "dae5c2be-efe8-9c42-3991-45b004e233d7"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "cf80b020-803a-5534-a136-f31324a8bb93",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "woodPlatWideFlat7"
+						}
+					],
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							-7.4981,
+							6.4984,
+							1.9995
+						],
+						"rotation": [
+							0.0,
+							-0.0,
+							-89.9999
+						]
+					},
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "0112e5f8-962b-848a-b7ad-6e8e07c52c77"
+					}
+				},
+				{
+					"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+					"instanceGuid": "153f89df-02ab-4754-3250-cc65ebd98d73",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "woodPlatWideFlat8"
+						}
+					],
+					"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+						"position": [
+							-7.4981,
+							2.9992,
+							7.0283
+						],
+						"rotation": [
+							0.0,
+							-0.0,
+							-89.9999
+						]
+					},
+					"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+						"scene": "a09edd75-cae7-48ef-655d-68e17d5407b1"
+					}
+				}
+			]
+		},
+        {
+            "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
+            "instanceGuid": "9e71ee4b-b4ec-9324-d5ac-a2b30689bda8",
+            "ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
+                "type": 0,
+                "layer": 0
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plane Static Body"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "4c1071cc-31cc-4dbe-a810-96f2c521a280",
+                    "instanceGuid": "dce58bc5-a92d-7ba1-ac6c-e9cbdf0149fb",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    },
+                    "4c1071cc-31cc-4dbe-a810-96f2c521a280": {
+                        "half_extent": [
+                            20.0,
+                            20.0
+                        ]
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Plane Collider"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "b40e846a-e742-233f-44c4-bcd4659f23f8",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    0.0,
+                    -0.2354
+                ],
+                "scale": [
+                    100.0,
+                    100.0,
+                    1.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "7fa427c1-e00c-4a9c-b42f-93110fe1deff",
+                "material_instance": "1eef894c-c736-4a7c-b94f-e5a9ac5eca24"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Shadow Mesh"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
+                }
+            ]
+        },
+        {
+            "typeGuid": "88a0cdbb-2826-46e3-b372-2a5154eacb61",
+            "instanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116",
+            "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
+                "asset": "ec66ce19-1e67-478b-a8e6-07b9cf74df4c"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Point"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
+                    ]
+                }
+            ]
+        },
+        {
+            "typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
+            "instanceGuid": "580323ef-65fc-97d6-42d3-293b8bd5d2d9",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.2569,
+                    4.0131,
+                    2.9937
+                ],
+                "rotation": [
+                    -44.9588,
+                    0.0,
+                    0.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "f141b823-5844-4fbc-b106-0635ff52199c"
+                ]
+            },
+            "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e": {
+                "color": [
+                    3.0,
+                    3.0,
+                    3.0,
+                    0.0
+                ],
+                "cascades": 4,
+                "cascade_distances": [
+                    6.0,
+                    12.0,
+                    32.0,
+                    60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Light"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
+                }
+            ]
+        },
+        {
+            "typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
+            "instanceGuid": "b54a4a9d-74ce-850a-877f-f11380ab14ef",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -25.1403,
+                    55.686,
+                    11.3044
+                ],
+                "rotation": [
+                    -44.9588,
+                    0.0,
+                    0.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "f141b823-5844-4fbc-b106-0635ff52199c"
+                ]
+            },
+            "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
+                "radius": 40.0,
+                "irradiance": "0189facb-9813-b927-e4bf-59777b6cabd8",
+                "brdf": "9e2a793b-8ff7-f993-25ab-f3f4542f5cfb",
+                "prefiltered": "0ad0d9fa-4d06-48e2-fa41-5589ee877ed6"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light",
+                    "flags": 2
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
+                }
+            ]
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "c3ed8ab5-4fcb-f57a-d4d9-78d697ad31dd",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "scale": [
+                    5.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "86d22670-1f09-4246-ae43-ef7f1b16c977",
+                    "d3b37153-2dce-4574-a8f1-f118df0e8e30"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "540e608c-9479-123a-f12e-3cf1b42de797",
+                "material_instance": "61327e65-3e13-4c49-bdac-3c9e90cf4ff1"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skysphere"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
+                }
+            ]
+        },
+		{
+			"typeGuid": "93a30ea5-1b2f-4261-a73c-d0302e0bed33",
+			"instanceGuid": "e2ed7db4-9e7c-0a64-b2d2-b6ecfea8078f",
+			"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+				"position": [
+					-7, -5.5, 1
+				]
+			},
+			"ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
+				"type": 0,
+				"layer": 3,
+				"body_flags": 1
+			},
+			"183d677a-b427-4b1d-a276-97b3e6681304": {
+				"mask": [
+					"d6a09c51-8ccf-416e-8154-66f9404d2a44"
+				]
+			},
+			"93a30ea5-1b2f-4261-a73c-d0302e0bed33": {
+				"targetTransform": {
+					"position": [
+						7.998,
+						12.9968,
+						8.9975
+					]
+				}
+			},
+			"data_components": [{
+				"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+				"name": "Teleport"
+			},
+			{
+				"typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+				"type": 0,
+				"layer": 3,
+				"body_flags": 1
+			}],
+			"children": [{
+				"typeGuid": "e81f4e62-fee0-4182-9c1a-a47c053b813f",
+				"instanceGuid": "ec36482d-ad6c-d9e8-c74c-56455ea17d3e",
+				"10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+					"physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+				},
+				"e81f4e62-fee0-4182-9c1a-a47c053b813f": {
+					"half_extent": [
+						0.25
+					]
+				},
+				"data_components": [{
+					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+					"name": "Teleport Collider"
+				}]
+			}]
+		}
+    ],
+    "default_camera": {
+        "position": [
+            -0.6363,
+            -14.0489,
+            14.5695
+        ],
+        "rotation": [
+            -30.451,
+            -0.0,
+            -4.0108
+        ],
+        "fieldOfView": 60.0,
+        "nearPlane": 0.1,
+        "farPlane": 128.0
+    },
+    "grid": {
+        "position": [
+            -7.4961,
+            2.417,
+            10.9263
+        ],
+        "scale": [
+            1.0,
+            -1.0,
+            1.0
+        ]
+    },
+    "thumbnailGuid": "34df4f56-26a5-1558-4700-aa6ba586d557"
+}
