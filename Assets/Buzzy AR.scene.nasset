@@ -1163,28 +1163,62 @@
 					-7, -5.5, 1
 				]
 			},
-			"ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
-				"type": 0,
-				"layer": 3,
-				"body_flags": 1
-			},
 			"183d677a-b427-4b1d-a276-97b3e6681304": {
 				"mask": [
 					"d6a09c51-8ccf-416e-8154-66f9404d2a44"
 				]
 			},
 			"93a30ea5-1b2f-4261-a73c-d0302e0bed33": {
-				"targetTransform": {
-					"position": [
-						7.998,
-						12.9968,
-						8.9975
-					]
+				"target": {
+					"typeGuid": "93a30ea5-1b2f-4261-a73c-d0302e0bed33",
+					"instanceGuid": "d3757c63-49fd-41d4-9781-9b15d2470fed"
 				}
 			},
 			"data_components": [{
 				"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
 				"name": "Teleport"
+			},
+			{
+				"typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+				"type": 0,
+				"layer": 3,
+				"body_flags": 1
+			}],
+			"children": [{
+				"typeGuid": "e81f4e62-fee0-4182-9c1a-a47c053b813f",
+				"instanceGuid": "ec36482d-ad6c-d9e8-c74c-56455ea17d3e",
+				"10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+					"physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+				},
+				"e81f4e62-fee0-4182-9c1a-a47c053b813f": {
+					"half_extent": [
+						0.25
+					]
+				},
+				"data_components": [{
+					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+					"name": "Teleport Collider"
+				}]
+			}]
+		},
+		{
+			"typeGuid": "93a30ea5-1b2f-4261-a73c-d0302e0bed33",
+			"instanceGuid": "d3757c63-49fd-41d4-9781-9b15d2470fed",
+			"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+				"position": [
+					7.998,
+					12.9968,
+					8.9975
+				]
+			},
+			"183d677a-b427-4b1d-a276-97b3e6681304": {
+				"mask": [
+					"d6a09c51-8ccf-416e-8154-66f9404d2a44"
+				]
+			},
+			"data_components": [{
+				"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+				"name": "Teleport Target"
 			},
 			{
 				"typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
