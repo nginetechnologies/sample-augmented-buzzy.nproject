@@ -66,17 +66,17 @@
                     ]
                 },
                 {
-                    "typeGuid": "a413cecf-a566-413d-bb01-bd1317cd4bb2",
+                    "typeGuid": "1d21d79c-5708-46c9-8e57-ee9e86476b80",
                     "instanceGuid": "6bc2ecd6-fdc9-5bae-a5c7-5cc849bffc88",
                     "a413cecf-a566-413d-bb01-bd1317cd4bb2": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
                     },
-					"ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
-						"type": 2,
-						"layer": 1,
-						"overriddenMass": 80,
-						"body_flags": 8
-					},
+                    "ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
+                        "type": 2,
+                        "layer": 1,
+                        "overriddenMass": 80,
+                        "body_flags": 8
+                    },
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -116,6 +116,11 @@
                                     0.0,
                                     -0.0,
                                     180.0
+                                ],
+                                "position": [
+                                    0.0,
+                                    0.0,
+                                    -0.6
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
