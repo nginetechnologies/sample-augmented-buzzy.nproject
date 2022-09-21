@@ -1,16 +1,16 @@
 {
-    "guid": "7067713b-1e49-34f6-b546-78602c8f7fdd",
+    "guid": "d8e539fc-1b24-9892-62d7-808444507eb1",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "a68bdfbf-2688-41a6-8e1d-0f088e71ffd8",
+    "instanceGuid": "40f9b93d-a0ce-435d-f42e-9448e239c499",
     "data_components": [],
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "a9166de8-47af-dd02-2817-01d8943ecde9",
+            "instanceGuid": "30328604-f78a-94e2-bf96-0b3b392ed2a6",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -24,21 +24,21 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "7dc435ac-18c9-a5f7-ccdc-eb4fd1d8923f",
+                    "instanceGuid": "602137aa-ba45-7b16-61a8-8c561a028c0c",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Crate Buzzy Bee Enviro D Collider"
+                            "name": "Crate Buzzy Enviro Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "dbbbb2b0-3d14-4af7-16dd-9eaeef8bec5d",
+                            "instanceGuid": "f47640a1-eff0-4ad8-2581-163d4b979f09",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Crate Buzzy Bee Enviro D"
+                                    "name": "Crate Buzzy Enviro"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -48,13 +48,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "20cd3543-218c-1fa0-94ad-1e3a558cd4c4",
-                                "material_instance": "35692bc9-0160-326e-dad3-676ea0480abc"
+                                "mesh": "47ec767e-a0d2-137b-d14e-2214d9e7aca0",
+                                "material_instance": "b84b31f5-87c1-6267-104d-80bcfb3e9836"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "20cd3543-218c-1fa0-94ad-1e3a558cd4c4"
+                        "mesh": "47ec767e-a0d2-137b-d14e-2214d9e7aca0"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -64,6 +64,7 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "7067713b-1e49-34f6-b546-78602c8f7fdd"
-    }
+        "scene": "d8e539fc-1b24-9892-62d7-808444507eb1"
+    },
+    "thumbnailGuid": "6b46f3f7-003e-cf1e-9dac-c5190aee7449"
 }
