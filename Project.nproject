@@ -13,7 +13,6 @@
     "library_directory": "lib",
     "thumbnail_guid": "596fd65b-7dd2-434d-9e8f-6b8919d35ca9",
     "default_scene": "e09e39d1-4a03-463e-8992-7af92a06ed5c",
-    "repository": "https://github.com/nginetechnologies/ngine-samples/raw/master/Buzzy_AR.nproject",
     "source": "Buzzy_AR.nproject",
     "settings": {
         "5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
