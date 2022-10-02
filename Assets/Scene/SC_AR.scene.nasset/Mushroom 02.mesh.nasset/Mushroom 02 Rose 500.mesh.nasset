@@ -1,7 +1,7 @@
 {
-    "guid": "5f5f29c2-9332-a3ea-05c2-7f2c59d85db9",
+    "guid": "126f91fa-575b-5ea1-9f62-1533159bc87f",
     "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-    "instanceGuid": "ca411cf8-cee0-90a7-86c7-228b6a1508fe",
+    "instanceGuid": "246d9e0f-8bd9-11d3-4d9c-5f6cd3a63fd1",
     "data_components": [
         {
             "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
@@ -11,7 +11,7 @@
     "children": [
         {
             "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "0e2ecf10-2a66-c6d5-0cc6-8691a1459ecb",
+            "instanceGuid": "59428109-bbe6-edb0-94ab-3da6c29cee96",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -21,7 +21,7 @@
             "children": [
                 {
                     "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "e3746e98-2185-4150-4c6d-2bf00c07c28c",
+                    "instanceGuid": "f0f6e1a2-fcfb-0c10-2ae2-4941ca1010a8",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -35,13 +35,13 @@
                         ]
                     },
                     "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "5f5f29c2-9332-a3ea-05c2-7f2c59d85db9",
-                        "material_instance": "dde3e085-208f-e7a6-baa6-71fd3c8ae8f5"
+                        "mesh": "126f91fa-575b-5ea1-9f62-1533159bc87f",
+                        "material_instance": "5fe9ed06-99fa-4dc3-2609-5eb7177d67c8"
                     }
                 }
             ],
             "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "5f5f29c2-9332-a3ea-05c2-7f2c59d85db9"
+                "mesh": "126f91fa-575b-5ea1-9f62-1533159bc87f"
             },
             "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                 "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
