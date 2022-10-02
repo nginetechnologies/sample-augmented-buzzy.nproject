@@ -1,0 +1,108 @@
+{
+    "guid": "76d589fb-3d21-6935-bbc2-0df843fbcaff",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "e40d2f25-1e08-5ace-6264-a7ad657a5084",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "ef8ef0ea-1f8b-9a54-e3b9-266db1e39c52",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Flat Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "6ce467b5-907c-a228-5852-a05c33592007",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Wood Flat Purple 500 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "3e8e7e50-19e3-90e2-6c79-e9e272ba1eb8",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wood Flat Purple 500"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "9b30a884-b2a2-c33b-5d8b-821fd9452929",
+                                "material_instance": "b86981a3-d2d3-0a82-d2b8-e160ac4339b4"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "9b30a884-b2a2-c33b-5d8b-821fd9452929"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "1413351e-1722-d314-d13e-219dd155ecf9",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Wood Flat Pink 600 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "0d2a1960-d7d5-be7a-9bfa-a8e6c9d11e09",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wood Flat Pink 600"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "eecdb58b-d12e-6263-8d09-db78c13b95be",
+                                "material_instance": "fe13253e-42f7-f8d8-cf3b-f72e2ec3a4f2"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "eecdb58b-d12e-6263-8d09-db78c13b95be"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "76d589fb-3d21-6935-bbc2-0df843fbcaff"
+    },
+    "thumbnailGuid": "ccaf331d-dadd-89e0-458a-0e153c32e4e9"
+}

@@ -1,0 +1,108 @@
+{
+    "guid": "05cbfbb4-1105-3a51-7ddc-de8593137ecf",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "12d43682-e2a5-d722-92be-9186f577baac",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "ef0115f4-e560-8082-e466-f8c436454a42",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Purple Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "5a727df6-952a-46ac-c31f-673d9ab44ae6",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Tree Purple Fuschia 500 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "4d687860-edd9-fd33-8e1a-e23d341234ed",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Tree Purple Fuschia 500"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8422015b-3723-9493-1785-bf8e3f66db23",
+                                "material_instance": "e98088e4-2163-9fd3-d5f6-a73b57042d97"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "8422015b-3723-9493-1785-bf8e3f66db23"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "caabd684-f8d0-8f8b-7471-73e088794f1f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Tree Purple Purple 500 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "cfde0538-4294-723e-3934-998e9aedd446",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Tree Purple Purple 500"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "bd029ee7-933e-ee87-f7e3-fd5ce0cd3bae",
+                                "material_instance": "b86981a3-d2d3-0a82-d2b8-e160ac4339b4"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "bd029ee7-933e-ee87-f7e3-fd5ce0cd3bae"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "05cbfbb4-1105-3a51-7ddc-de8593137ecf"
+    },
+    "thumbnailGuid": "29500d12-d85d-4c5b-eb49-3bc657ee2319"
+}

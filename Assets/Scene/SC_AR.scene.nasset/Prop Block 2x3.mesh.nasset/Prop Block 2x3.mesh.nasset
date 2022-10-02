@@ -1,0 +1,70 @@
+{
+    "guid": "27eacae5-73d5-1ca3-ad73-60e2b44a47b2",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "47d406ea-bcec-2ab5-9d5f-6955750df80b",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "0591bbe7-7d9c-fe7d-f421-ef9aced911af",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Prop Block 2x3 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "7a65b9d2-6fb9-3df5-8150-244ea68fa46f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Prop Block 2x3 Blue 500 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "47e59b58-0ae1-2010-8149-e8332c061250",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Prop Block 2x3 Blue 500"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "77f77309-61c8-59d3-f410-11788b67b4e1",
+                                "material_instance": "2e514887-735d-dc03-4a47-77575f7c4e74"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "77f77309-61c8-59d3-f410-11788b67b4e1"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "27eacae5-73d5-1ca3-ad73-60e2b44a47b2"
+    },
+    "thumbnailGuid": "aef969e1-af8d-552e-2a8c-ccd2e1c5fdb9"
+}

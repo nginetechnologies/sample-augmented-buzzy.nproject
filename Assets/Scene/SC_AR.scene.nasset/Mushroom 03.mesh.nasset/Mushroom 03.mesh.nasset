@@ -1,0 +1,108 @@
+{
+    "guid": "6f179e3b-ae49-95ee-1d3b-655deeb3b4b1",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "3a005d5d-65a2-aad3-0c5d-f02f6efe1a39",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "2734e5be-a6fb-60b0-9d3f-94e6e9eec4cc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mushroom 03 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "3f1f7803-f664-6300-e8b1-de6a025c1d2d",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Mushroom 03 Purple 900 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "0e79a2df-c2b7-1214-63a6-d47122354c57",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Mushroom 03 Purple 900"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e45e6c9e-fa61-bbb4-d1ba-2296c15ce6e0",
+                                "material_instance": "06e27fbb-ac0f-6c75-6052-ccb0c71844a4"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "e45e6c9e-fa61-bbb4-d1ba-2296c15ce6e0"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "66969388-e6bf-3a1e-6077-d06e04f24429",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Mushroom 03 White Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "82c009b6-8d96-c179-1b6b-e18c3eb44da4",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Mushroom 03 White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "13582bb0-5245-6f55-11e3-e7cef3571f7b",
+                                "material_instance": "443bdf54-8142-3f67-e46f-e153087868a0"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "13582bb0-5245-6f55-11e3-e7cef3571f7b"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "6f179e3b-ae49-95ee-1d3b-655deeb3b4b1"
+    },
+    "thumbnailGuid": "4c61273c-685f-7283-97e6-66238ee43c7d"
+}

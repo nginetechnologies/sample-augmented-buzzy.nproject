@@ -1,0 +1,108 @@
+{
+    "guid": "838efb8c-3466-24e6-68ee-2c615501c6a2",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "c6c1169e-b178-b1ea-3382-3002989042a6",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "78c14b76-a480-37e5-b450-78757a9ccb38",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Red Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "39147fd7-f685-d89d-6722-fa3871e9009f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Tree Red Fuschia 500 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "6a2c99b5-4c5d-6f90-fe61-70720a203025",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Tree Red Fuschia 500"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f250e575-d802-8dbc-10b3-1fb4a5d2a539",
+                                "material_instance": "e98088e4-2163-9fd3-d5f6-a73b57042d97"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "f250e575-d802-8dbc-10b3-1fb4a5d2a539"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "392cda86-301e-d41f-06a2-cb32e0722fe9",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Tree Red Red 500 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "057e9b98-85ae-3585-b169-69739a31d830",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Tree Red Red 500"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "bd8aaadd-059b-c451-47b0-3e7b449eed9b",
+                                "material_instance": "a5a19a58-5570-6217-6436-8d5c3023497a"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "bd8aaadd-059b-c451-47b0-3e7b449eed9b"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "838efb8c-3466-24e6-68ee-2c615501c6a2"
+    },
+    "thumbnailGuid": "82e2ddf4-7786-13a7-0315-564169c4cd96"
+}

@@ -1,0 +1,1437 @@
+{
+    "guid": "e09e39d1-4a03-463e-8992-7af92a06ed5c",
+    "typeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+    "instanceGuid": "48675f12-ebc9-0b9d-e43c-734fffab63ad",
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 4096.0
+    },
+    "data_components": [
+        {
+            "typeGuid": "05a7011d-a220-49f2-98df-81b32be3c0fd",
+            "camera_settings": {
+                "typeGuid": "9ae0e145-86b4-4e47-afda-697bbd008922",
+                "9ae0e145-86b4-4e47-afda-697bbd008922": {
+                    "fieldOfView": 60.0,
+                    "nearPlane": 0.1,
+                    "farPlane": 128.0
+                }
+            },
+            "transform": {
+                "position": [
+                    -1.2338,
+                    -21.6022,
+                    17.0067
+                ],
+                "rotation": [
+                    -42.8609,
+                    -0.0,
+                    -9.1578
+                ]
+            },
+            "grid_settings": {
+                "typeGuid": "ecc5ac5d-5450-4808-97b1-e25d91462d96",
+                "ecc5ac5d-5450-4808-97b1-e25d91462d96": {
+                    "transform": {
+                        "scale": [
+                            -1.0,
+                            -1.0,
+                            1.0
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1e90f027-f1d9-0af8-c045-26f2ef6bb05d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mushroom 01"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -5.4986,
+                    -5.4986,
+                    -0.0
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "453ef655-d651-92e2-d06e-e9fdc6d6d850"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5c5081c7-f4a3-3d54-4d12-c501cf2577f3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mushroom 02"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -4.9987,
+                    -5.9985,
+                    -0.0
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8c352e49-75ae-7d91-4c6f-890039a9d829"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "17b5fd60-bae7-4a3f-6531-a53a516cafde",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mushroom 03"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -5.4986,
+                    -6.4984,
+                    -0.0
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6f179e3b-ae49-95ee-1d3b-655deeb3b4b1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f76fa052-2eea-d159-baef-e12db4b5f502",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Green"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.999,
+                    9.9975,
+                    0.0
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "52ff86dc-dfe7-f4be-0bef-36c69d932fdc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c82c1092-a6f7-7b68-1947-b1f0ec8282c7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Cyan"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.999,
+                    -11.997,
+                    0.0
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f807074c-0389-0e3f-0fe1-25a9ab24ce13"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "690637e0-d1d6-7699-9756-ac01b5a4ea42",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Red"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -6.9982,
+                    -9.4976,
+                    -0.0
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "838efb8c-3466-24e6-68ee-2c615501c6a2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4aa84476-a64f-4613-205a-97f6bd8a40b5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Purple"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -10.0013,
+                    -0.0062,
+                    0.0
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "05cbfbb4-1105-3a51-7ddc-de8593137ecf"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "334da40c-f2fd-6ee9-8d19-93405a060f22",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Prop Block 2x2"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.998,
+                    1.9995,
+                    5.4986
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3704cfdd-608c-58d4-1e0c-5c7f0ba655f1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "14da9790-b126-00a2-1cb9-5f03a2ad64b5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Prop Block 2x3"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.998,
+                    -2.4993,
+                    3.999
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "27eacae5-73d5-1ca3-ad73-60e2b44a47b2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b40ae71d-6ee6-14ac-c5f2-8e936ea6767a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Prop Block 2x4"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.998,
+                    -8.0346,
+                    1.4996
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3a779e14-efbe-e82f-7995-dafc25c7d90a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8d04f38c-4f51-54a1-9997-f737f3f463c7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Flat 01"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.4981,
+                    4.9987,
+                    1.9995
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    -89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "76d589fb-3d21-6935-bbc2-0df843fbcaff"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b92943b7-829b-030b-74dc-ff1f3e82200c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Flat 02"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.4981,
+                    2.9992,
+                    7.0283
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    -89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "76d589fb-3d21-6935-bbc2-0df843fbcaff"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a9ac74eb-f8ef-74c7-ad0e-bbe3fdf5e94a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Flat 03"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.4981,
+                    1.9995,
+                    7.0283
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    -89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "76d589fb-3d21-6935-bbc2-0df843fbcaff"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bb8c2fcf-4e76-0ac7-757c-7695231601cb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Flat 04"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.4981,
+                    9.9975,
+                    3.999
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    -89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "76d589fb-3d21-6935-bbc2-0df843fbcaff"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5f610513-bfb7-6645-db0b-35074cc082fc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Flat 05"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.4981,
+                    5.9985,
+                    1.9995
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    -89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "76d589fb-3d21-6935-bbc2-0df843fbcaff"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4fc839c4-be5f-bf29-798a-9efb2124c715",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Flat 06"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.4981,
+                    6.9982,
+                    1.9995
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    -89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "76d589fb-3d21-6935-bbc2-0df843fbcaff"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "dc5003aa-294d-ab8e-0291-021c8b884e61",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Ramp 01"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.4981,
+                    1.9995,
+                    0.9997
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9e9c490e-8304-602f-4201-45e8ed05efe0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4d39ee68-c608-5dcd-c95e-68c07aa46498",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Ramp 02"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.4981,
+                    5.5023,
+                    5.9985
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    -90.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9e9c490e-8304-602f-4201-45e8ed05efe0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8e1f887b-7d28-ca34-1c08-81193a5676a8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wood Ramp 03"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.4981,
+                    7.998,
+                    3.0983
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9e9c490e-8304-602f-4201-45e8ed05efe0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e8b011fd-78e4-4e00-f6ed-63cd53ff8f72",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Brick 01"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    8.9978,
+                    1.9995
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "99890e33-f99d-ab37-b9a8-29762944dafa"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ae0b8c7d-4742-e2f2-c8ca-ffce457e4600",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Brick 02"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    9.9975,
+                    1.9995
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "99890e33-f99d-ab37-b9a8-29762944dafa"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "47d8aa19-f9e9-ef22-d8b1-6681a4c7ee20",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Brick 03"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    12.9968,
+                    1.9995
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "99890e33-f99d-ab37-b9a8-29762944dafa"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2ac5f235-e41d-2f64-6385-40aa7db3b0ee",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Brick 04"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    13.9965,
+                    1.9995
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "99890e33-f99d-ab37-b9a8-29762944dafa"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "40950a92-f95e-63f5-4064-8ce4a7270f64",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Brick 05"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    10.9973,
+                    1.9995
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "99890e33-f99d-ab37-b9a8-29762944dafa"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c6ae6424-177b-1ebc-ca8a-3b3d4db3091b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Brick 06"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    11.997,
+                    1.9995
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "99890e33-f99d-ab37-b9a8-29762944dafa"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "65122457-e0db-1258-6335-7290c8f96ac8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sign Arrow"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    5.4573,
+                    -9.467,
+                    -0.0
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ffa6e1f4-1fa8-3e00-972e-5e98efda8aca"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "98fc7ee7-36c4-f41c-5dc5-ba6dec1f8a87",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.4981,
+                    -3.999,
+                    0.4998
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "15cb9ba4-007b-0097-c9d5-5fced5657c76"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1f0f92d0-738e-a369-121a-8e4936421928",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Powerup"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.0,
+                    11.4971,
+                    6.0144
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e467a7c2-290f-0d57-71dc-ec1c404f5e36"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "97bcfb0f-e5a3-513b-b6b6-47a2fc40111a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coin 01"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.4981,
+                    2.4993,
+                    10.4974
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "eea99f9c-2a77-4f4f-434d-5877cd6aabfc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bc02f7da-e144-8ac7-a038-fd8ceb67cb73",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coin 02"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.998,
+                    -2.4993,
+                    7.4981
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "eea99f9c-2a77-4f4f-434d-5877cd6aabfc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6be100bb-2efc-2462-2d75-4486ad5936e4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coin 03"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.998,
+                    1.9995,
+                    8.9978
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "eea99f9c-2a77-4f4f-434d-5877cd6aabfc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0ddab962-cd43-8084-07cd-4388d38bfab5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe End 01"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -6.9982,
+                    -5.9985,
+                    0.9997
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3cad9cf1-f084-6fe2-b59a-6f1fa6d1ad27"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "094c5be7-1937-3155-464b-8fc896e13ebc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe Bend 01"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.998,
+                    12.9968,
+                    10.9973
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8405838c-121b-eee9-b8b7-278a92326655"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7e791011-6afa-050e-d46b-62cf0d141743",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe Bend 02"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.998,
+                    16.9958,
+                    10.9973
+                ],
+                "rotation": [
+                    -0.0,
+                    -0.0,
+                    -179.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8405838c-121b-eee9-b8b7-278a92326655"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3e9d29e2-d1ca-3251-10da-3721d078f472",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe Straight 01"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.998,
+                    14.9963,
+                    10.9973
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "00a3ca29-47ae-7eb6-ad8d-786d1bc93fb5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d4df6866-e842-5638-6135-58642c71eadc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe Straight 02"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.998,
+                    16.9958,
+                    8.9978
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "00a3ca29-47ae-7eb6-ad8d-786d1bc93fb5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2aecd64a-5e7b-3d76-3af1-9f74854f664d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe Straight 03"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.998,
+                    16.9958,
+                    6.9982
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "00a3ca29-47ae-7eb6-ad8d-786d1bc93fb5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4c87f8e4-7f57-2b5b-d40f-a8d780da6982",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe Straight 04"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.998,
+                    16.9958,
+                    4.9987
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "00a3ca29-47ae-7eb6-ad8d-786d1bc93fb5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cfee6496-f842-5b31-e0b7-b98812410185",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe Straight 05"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.998,
+                    16.9958,
+                    2.9992
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "00a3ca29-47ae-7eb6-ad8d-786d1bc93fb5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e076dede-92eb-051c-c1b6-1760338f3d0a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe Straight 06"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.998,
+                    16.9958,
+                    0.9997
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "00a3ca29-47ae-7eb6-ad8d-786d1bc93fb5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5a63075a-64a8-e82a-b4ab-22023c7406c1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe End 02"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.998,
+                    12.9968,
+                    8.9978
+                ],
+                "rotation": [
+                    -179.9999,
+                    0.0,
+                    -30.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3cad9cf1-f084-6fe2-b59a-6f1fa6d1ad27"
+            }
+        },
+        {
+            "typeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
+            "instanceGuid": "9e71ee4b-b4ec-9324-d5ac-a2b30689bda8",
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9e71ee4b-b4ec-9324-d5ac-a2b30689bda8"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plane Static Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0,
+                    "layer": 0,
+                    "maximumAngularVelocity": 2700.0,
+                    "overriddenMass": 0.0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "4c1071cc-31cc-4dbe-a810-96f2c521a280",
+                    "instanceGuid": "dce58bc5-a92d-7ba1-ac6c-e9cbdf0149fb",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    },
+                    "4c1071cc-31cc-4dbe-a810-96f2c521a280": {
+                        "extent": 20.0,
+                        "half_extent": [
+                            20.0,
+                            20.0
+                        ]
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "dce58bc5-a92d-7ba1-ac6c-e9cbdf0149fb"
+                        },
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Plane Collider"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "b40e846a-e742-233f-44c4-bcd4659f23f8",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    0.0,
+                    -0.2354
+                ],
+                "scale": [
+                    100.0,
+                    100.0,
+                    1.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "7fa427c1-e00c-4a9c-b42f-93110fe1deff",
+                "material_instance": "1eef894c-c736-4a7c-b94f-e5a9ac5eca24"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b40e846a-e742-233f-44c4-bcd4659f23f8"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Shadow Mesh"
+                }
+            ]
+        },
+        {
+            "typeGuid": "88a0cdbb-2826-46e3-b372-2a5154eacb61",
+            "instanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+				"rotation": [ 0, 0, 180 ]
+            },
+            "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
+                "asset": "ec66ce19-1e67-478b-a8e6-07b9cf74df4c"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
+                    ]
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Point"
+                }
+            ]
+        },
+        {
+            "typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
+            "instanceGuid": "580323ef-65fc-97d6-42d3-293b8bd5d2d9",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.2569,
+                    4.0131,
+                    2.9937
+                ],
+                "rotation": [
+                    -44.9588,
+                    0.0,
+                    0.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "f141b823-5844-4fbc-b106-0635ff52199c"
+                ]
+            },
+            "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e": {
+                "color": "#fdfdfd00",
+                "cascades": 4,
+                "intensity": 1.0,
+                "cascade_distances": [
+                    6.0,
+                    12.0,
+                    32.0,
+                    60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "580323ef-65fc-97d6-42d3-293b8bd5d2d9"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Light"
+                }
+            ]
+        },
+        {
+            "typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
+            "instanceGuid": "b54a4a9d-74ce-850a-877f-f11380ab14ef",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -25.1403,
+                    55.686,
+                    11.3044
+                ],
+                "rotation": [
+                    -44.9588,
+                    0.0,
+                    0.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "f141b823-5844-4fbc-b106-0635ff52199c"
+                ]
+            },
+            "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
+                "radius": 40.0,
+                "irradiance": "0189facb-9813-b927-e4bf-59777b6cabd8",
+                "brdf": "9e2a793b-8ff7-f993-25ab-f3f4542f5cfb",
+                "prefiltered": "0ad0d9fa-4d06-48e2-fa41-5589ee877ed6"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b54a4a9d-74ce-850a-877f-f11380ab14ef"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light",
+                    "flags": 2
+                }
+            ]
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "c3ed8ab5-4fcb-f57a-d4d9-78d697ad31dd",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "scale": [
+                    5.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "d3b37153-2dce-4574-a8f1-f118df0e8e30",
+                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "540e608c-9479-123a-f12e-3cf1b42de797",
+                "material_instance": "61327e65-3e13-4c49-bdac-3c9e90cf4ff1"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c3ed8ab5-4fcb-f57a-d4d9-78d697ad31dd"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skysphere"
+                }
+            ]
+        },
+        {
+            "typeGuid": "93a30ea5-1b2f-4261-a73c-d0302e0bed33",
+            "instanceGuid": "e2ed7db4-9e7c-0a64-b2d2-b6ecfea8078f",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.0,
+                    -5.5,
+                    1.0
+                ]
+            },
+            "183d677a-b427-4b1d-a276-97b3e6681304": {
+                "mask": [
+                    "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+                ]
+            },
+            "93a30ea5-1b2f-4261-a73c-d0302e0bed33": {
+                "target": {
+                    "typeGuid": "93a30ea5-1b2f-4261-a73c-d0302e0bed33",
+                    "instanceGuid": "d3757c63-49fd-41d4-9781-9b15d2470fed"
+                }
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e2ed7db4-9e7c-0a64-b2d2-b6ecfea8078f"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Teleport"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0,
+                    "layer": 3,
+                    "body_flags": 1,
+                    "maximumAngularVelocity": 2700.0,
+                    "overriddenMass": 0.0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "e81f4e62-fee0-4182-9c1a-a47c053b813f",
+                    "instanceGuid": "ec36482d-ad6c-d9e8-c74c-56455ea17d3e",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    },
+                    "e81f4e62-fee0-4182-9c1a-a47c053b813f": {
+                        "size": [
+                            0.25
+                        ],
+                        "half_extent": [
+                            0.25
+                        ]
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "ec36482d-ad6c-d9e8-c74c-56455ea17d3e"
+                        },
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Teleport Collider"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "typeGuid": "93a30ea5-1b2f-4261-a73c-d0302e0bed33",
+            "instanceGuid": "d3757c63-49fd-41d4-9781-9b15d2470fed",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.998,
+                    12.9968,
+                    8.9975
+                ]
+            },
+            "183d677a-b427-4b1d-a276-97b3e6681304": {
+                "mask": [
+                    "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d3757c63-49fd-41d4-9781-9b15d2470fed"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Teleport Target"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0,
+                    "layer": 3,
+                    "body_flags": 1,
+                    "maximumAngularVelocity": 2700.0,
+                    "overriddenMass": 0.0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "e81f4e62-fee0-4182-9c1a-a47c053b813f",
+                    "instanceGuid": "54624d61-d050-4dce-9bf4-e3d1194c4dbf",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    },
+                    "e81f4e62-fee0-4182-9c1a-a47c053b813f": {
+                        "size": [
+                            0.25
+                        ],
+                        "half_extent": [
+                            0.25
+                        ]
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "54624d61-d050-4dce-9bf4-e3d1194c4dbf"
+                        },
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Teleport Collider"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
