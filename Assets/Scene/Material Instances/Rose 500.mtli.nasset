@@ -1,0 +1,20 @@
+{
+    "guid": "5fe9ed06-99fa-4dc3-2609-5eb7177d67c8",
+    "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+    "material": "a897cdfa-a65f-4222-a5ab-d64df68c17b6",
+    "push_constants": [
+        {
+            "type": 0,
+            "color": "#e60c1c"
+        },
+        {
+            "type": 1,
+            "value": 0.0
+        },
+        {
+            "type": 1,
+            "value": 0.5
+        }
+    ],
+    "thumbnailGuid": "265490a3-7927-9c7f-9efe-de49643e2ffe"
+}
