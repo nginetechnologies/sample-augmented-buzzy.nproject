@@ -3,9 +3,44 @@
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "instanceGuid": "274a0aea-93b9-4782-9dab-0b8feae2cd66",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
-        "radius": 1024.0
+        "radius": 4096.0
     },
     "data_components": [
+        {
+            "typeGuid": "05a7011d-a220-49f2-98df-81b32be3c0fd",
+            "camera_settings": {
+                "typeGuid": "9ae0e145-86b4-4e47-afda-697bbd008922",
+                "9ae0e145-86b4-4e47-afda-697bbd008922": {
+                    "fieldOfView": 60.0,
+                    "nearPlane": 0.1,
+                    "farPlane": 128.0
+                }
+            },
+            "transform": {
+                "position": [
+                    0.0,
+                    -5.8583,
+                    0.0
+                ],
+                "rotation": [
+                    3.5919,
+                    -0.0,
+                    4.4921
+                ]
+            },
+            "grid_settings": {
+                "typeGuid": "ecc5ac5d-5450-4808-97b1-e25d91462d96",
+                "ecc5ac5d-5450-4808-97b1-e25d91462d96": {
+                    "transform": {
+                        "scale": [
+                            1.0,
+                            -1.0,
+                            1.0
+                        ]
+                    }
+                }
+            }
+        },
         {
             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
             "name": "Player"
@@ -24,11 +59,15 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Player Character"
+                    "typeGuid": "be33f822-02f0-4d8b-9553-8f6200b43f83"
                 },
                 {
-                    "typeGuid": "be33f822-02f0-4d8b-9553-8f6200b43f83"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "05d8c77e-c827-4bfa-b666-170762eb37d8"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Player Character"
                 }
             ],
             "children": [
@@ -37,12 +76,12 @@
                     "instanceGuid": "4ca540b9-a73b-41c2-b993-0a546cb6cb62",
                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                         "position": [
-                            0,
-                            -6,
-                            2
+                            0.0,
+                            -6.0,
+                            2.0
                         ],
                         "rotation": [
-                            -20,
+                            -20.0,
                             0.0,
                             0.0
                         ]
@@ -54,14 +93,18 @@
                     },
                     "data_components": [
                         {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Camera"
-                        },
-                        {
                             "typeGuid": "0d3920f0-883f-41fc-bf30-2079a383cb27",
                             "rotationSpeed": 20.0,
                             "positionSpeed": 2.0,
                             "verticalStep": 1.0
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "4ca540b9-a73b-41c2-b993-0a546cb6cb62"
+                        },
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Camera"
                         }
                     ]
                 },
@@ -71,22 +114,45 @@
                     "a413cecf-a566-413d-bb01-bd1317cd4bb2": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
                     },
+                    "1d21d79c-5708-46c9-8e57-ee9e86476b80": {
+                        "maxWalkableAngle": 50.0,
+                        "maxGroundAngle": 50.0,
+                        "accelStrength": 30.0,
+                        "inAirControl": 0.1,
+                        "stepUpHeight": 0.5,
+                        "stepUpSpeed": 2.0,
+                        "stepDownSpeed": 1.0,
+                        "colliderHeightAboveGround": 0.5
+                    },
                     "ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
                         "type": 2,
                         "layer": 1,
-                        "overriddenMass": 80,
-                        "body_flags": 8
+                        "body_flags": 12,
+                        "maximumAngularVelocity": 2700.0,
+                        "overriddenMass": 80.0
                     },
                     "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Character Physics"
-                        },
                         {
                             "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                             "mask": [
                                 "d6a09c51-8ccf-416e-8154-66f9404d2a44"
                             ]
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "6bc2ecd6-fdc9-5bae-a5c7-5cc849bffc88"
+                        },
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Character Physics"
+                        },
+                        {
+                            "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                            "type": 2,
+                            "layer": 1,
+                            "body_flags": 12,
+                            "maximumAngularVelocity": 2700.0,
+                            "overriddenMass": 80.0
                         }
                     ],
                     "children": [
@@ -98,42 +164,38 @@
                             },
                             "a87d82b2-1cd5-4b81-8103-85248c61d585": {
                                 "radius": 0.5,
-                                "half_height": 0.25
+                                "half_height": 0.75
                             },
-                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                                "position": [
-                                    0.0,
-                                    0.0,
-                                    0.0
-                                ]
-                            }
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "adeed443-251c-4ae7-b176-49f122eb4a8b"
+                                }
+                            ]
                         },
                         {
                             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
                             "instanceGuid": "83699601-7bf7-98b1-2c62-092966c46b85",
                             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                                "rotation": [
-                                    0.0,
-                                    -0.0,
-                                    180.0
-                                ],
                                 "position": [
                                     0.0,
                                     0.0,
-                                    -0.6
+                                    -1.5
+                                ],
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    -180.0
                                 ]
-                            },
-                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": "15c2bc89-fa81-3c64-63af-50fdd4272cdb"
                             },
                             "data_components": [
                                 {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Bee character scene"
-                                },
-                                {
                                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                                     "templateInstanceGuid": "9f21fed8-271e-b43c-baa6-cb444c6c7649"
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bee character scene"
                                 }
                             ],
                             "children": [
@@ -142,7 +204,12 @@
                                     "instanceGuid": "97b785be-3829-4440-810f-2b7bc94b70e5",
                                     "data_components": [
                                         {
+                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                            "templateInstanceGuid": "bba39ccb-27d6-e8b2-8d93-46221860c9b8"
+                                        },
+                                        {
                                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "Skeleton",
                                             "flags": 4
                                         },
                                         {
@@ -157,50 +224,21 @@
                                                 "8ebc36da-b42b-e486-3b6d-3fd5217e3d06",
                                                 "9f8f19fe-2279-41e3-e8eb-9eba45a4fef2"
                                             ]
-                                        },
-                                        {
-                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                            "templateInstanceGuid": "bba39ccb-27d6-e8b2-8d93-46221860c9b8"
                                         }
                                     ]
                                 }
-                            ]
+                            ],
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "15c2bc89-fa81-3c64-63af-50fdd4272cdb"
+                            }
                         }
                     ]
                 }
             ]
         }
     ],
-    "default_camera": {
-        "position": [
-            -9.7733,
-            -1.8871,
-            4.0152
-        ],
-        "rotation": [
-            -21.9986,
-            -0.0,
-            -79.0237
-        ],
-        "fieldOfView": 60.0,
-        "nearPlane": 0.0098,
-        "farPlane": 128.0
-    },
-    "grid": {
-        "position": [
-            0.0,
-            0.0,
-            -0.5082
-        ],
-        "scale": [
-            -1.0,
-            -1.0,
-            1.0
-        ]
-    },
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "ec66ce19-1e67-478b-a8e6-07b9cf74df4c"
-    },
-    "thumbnailGuid": "e95160b5-9f01-a360-4319-88759e54333f"
+    }
 }

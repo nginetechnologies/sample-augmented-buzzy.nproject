@@ -7,6 +7,9 @@
     },
     "data_components": [
         {
+            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
+        },
+        {
             "typeGuid": "05a7011d-a220-49f2-98df-81b32be3c0fd",
             "camera_settings": {
                 "typeGuid": "9ae0e145-86b4-4e47-afda-697bbd008922",
@@ -18,43 +21,34 @@
             },
             "transform": {
                 "position": [
-                    -1.2338,
-                    -21.6022,
-                    17.0067
+                    7.4595,
+                    -5.4226,
+                    12.0739
                 ],
                 "rotation": [
-                    -42.8609,
+                    -24.5499,
                     -0.0,
-                    -9.1578
+                    42.012
                 ]
             },
             "grid_settings": {
                 "typeGuid": "ecc5ac5d-5450-4808-97b1-e25d91462d96",
                 "ecc5ac5d-5450-4808-97b1-e25d91462d96": {
                     "transform": {
-                        "scale": [
-                            -1.0,
-                            -1.0,
+                        "position": [
+                            -7.7868,
+                            -6.7271,
                             1.0
                         ]
                     }
                 }
             }
-        },
-        {
-            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
         }
     ],
     "children": [
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "be5f4116-fa5b-e5ec-c7b9-4ca964a9eb56",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Mushroom 01"
-                }
-            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -5.4986,
@@ -62,6 +56,16 @@
                     -0.0
                 ]
             },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "be5f4116-fa5b-e5ec-c7b9-4ca964a9eb56"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mushroom 01"
+                }
+            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "316c0d5e-d811-c106-6366-02d64736fb60"
             }
@@ -69,19 +73,23 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "becbf7dc-a271-245f-58eb-478b09f34751",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -4.9987,
+                    -5.9984,
+                    -0.0
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "becbf7dc-a271-245f-58eb-478b09f34751"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Mushroom 02"
                 }
             ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -4.9987,
-                    -5.9985,
-                    -0.0
-                ]
-            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "5fe6b094-bc04-433c-14ee-3f3d87b0b0a6"
             }
@@ -89,12 +97,6 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "37716cea-a369-8b4e-33e8-9d9f11b34244",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Mushroom 03"
-                }
-            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -5.4986,
@@ -102,6 +104,16 @@
                     -0.0
                 ]
             },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "37716cea-a369-8b4e-33e8-9d9f11b34244"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mushroom 03"
+                }
+            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "841890c8-e743-4dfb-4b49-cf40409cd65a"
             }
@@ -109,12 +121,6 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "68cf2320-6306-104a-57d5-e07e51d41eaf",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Tree Green"
-                }
-            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     3.999,
@@ -122,6 +128,16 @@
                     0.0
                 ]
             },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "68cf2320-6306-104a-57d5-e07e51d41eaf"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Green"
+                }
+            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "c988e97e-0e16-47c4-7e96-415878f7d189"
             }
@@ -129,19 +145,23 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "cd339517-2011-e246-556c-b7585e35bd91",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.999,
+                    -11.9968,
+                    0.0
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "cd339517-2011-e246-556c-b7585e35bd91"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Tree Cyan"
                 }
             ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    3.999,
-                    -11.997,
-                    0.0
-                ]
-            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "3b95f9f5-f76e-43dd-933a-0e5a1e88689d"
             }
@@ -149,19 +169,23 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "09dc1005-caf5-9fac-4b5a-516e1763f930",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -6.998,
+                    -9.4975,
+                    -0.0
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "09dc1005-caf5-9fac-4b5a-516e1763f930"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Tree Red"
                 }
             ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -6.9982,
-                    -9.4976,
-                    -0.0
-                ]
-            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "8b2c404c-a44b-987c-02ff-3aede31a1ac6"
             }
@@ -169,19 +193,23 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "13954938-16dd-38f5-0d37-59c2b5f5c0de",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -10.0011,
+                    -0.0062,
+                    0.0
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "13954938-16dd-38f5-0d37-59c2b5f5c0de"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Tree Purple"
                 }
             ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -10.0013,
-                    -0.0062,
-                    0.0
-                ]
-            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "ca191aba-c272-a744-9d6a-6c75826b4123"
             }
@@ -189,12 +217,6 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "eb049d8d-5de2-46ed-89a9-c1aebde47e97",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Prop Block 2x2"
-                }
-            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     7.998,
@@ -202,6 +224,16 @@
                     5.4986
                 ]
             },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "eb049d8d-5de2-46ed-89a9-c1aebde47e97"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Prop Block 2x2"
+                }
+            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "0854e6ed-ba8f-0ef8-4de9-90c22e7cfd5e"
             }
@@ -209,12 +241,6 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "5d8a98cf-8565-04e8-d900-d8a29cbcf02e",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Prop Block 2x3"
-                }
-            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     7.998,
@@ -222,6 +248,16 @@
                     3.999
                 ]
             },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5d8a98cf-8565-04e8-d900-d8a29cbcf02e"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Prop Block 2x3"
+                }
+            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "1ad7753e-4518-006f-a052-45d05c60f513"
             }
@@ -229,12 +265,6 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "e0b551be-82db-40c5-5449-413ad33ab595",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Prop Block 2x4"
-                }
-            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     7.998,
@@ -242,6 +272,16 @@
                     1.4996
                 ]
             },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e0b551be-82db-40c5-5449-413ad33ab595"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Prop Block 2x4"
+                }
+            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "9700f9b0-87fc-1c8c-1e88-e77cb014c790"
             }
@@ -249,19 +289,23 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "3c2bcb28-2302-699c-89b1-65cfdacf2e8b",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.498,
+                    4.9987,
+                    1.9995
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "3c2bcb28-2302-699c-89b1-65cfdacf2e8b"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wood Flat 01"
                 }
             ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -7.4981,
-                    4.9987,
-                    1.9995
-                ]
-            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "62bbc3e5-4c90-bf00-e186-0556b19c0713"
             }
@@ -269,19 +313,23 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "6645c5fe-1515-eba1-4013-6d61f3113cf3",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.498,
+                    2.9992,
+                    7.0282
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6645c5fe-1515-eba1-4013-6d61f3113cf3"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wood Flat 02"
                 }
             ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -7.4981,
-                    2.9992,
-                    7.0283
-                ]
-            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "62bbc3e5-4c90-bf00-e186-0556b19c0713"
             }
@@ -289,19 +337,23 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "bb6fa79c-2e8f-fcc8-b3a9-c194c1463fbf",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.498,
+                    1.9995,
+                    7.0282
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "bb6fa79c-2e8f-fcc8-b3a9-c194c1463fbf"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wood Flat 03"
                 }
             ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -7.4981,
-                    1.9995,
-                    7.0283
-                ]
-            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "62bbc3e5-4c90-bf00-e186-0556b19c0713"
             }
@@ -309,19 +361,23 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "4acafde9-400d-350e-3a22-164f8f7875e3",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.498,
+                    9.9975,
+                    3.999
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4acafde9-400d-350e-3a22-164f8f7875e3"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wood Flat 04"
                 }
             ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -7.4981,
-                    9.9975,
-                    3.999
-                ]
-            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "62bbc3e5-4c90-bf00-e186-0556b19c0713"
             }
@@ -329,19 +385,23 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "ddf3fb0d-5ec0-e6f9-f542-cd3e4995bfb0",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.498,
+                    5.9984,
+                    1.9995
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ddf3fb0d-5ec0-e6f9-f542-cd3e4995bfb0"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wood Flat 05"
                 }
             ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -7.4981,
-                    5.9985,
-                    1.9995
-                ]
-            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "62bbc3e5-4c90-bf00-e186-0556b19c0713"
             }
@@ -349,19 +409,23 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "772c6d9d-933f-b9e8-3c46-bcef42fa7c53",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.498,
+                    6.998,
+                    1.9995
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "772c6d9d-933f-b9e8-3c46-bcef42fa7c53"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wood Flat 06"
                 }
             ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -7.4981,
-                    6.9982,
-                    1.9995
-                ]
-            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "62bbc3e5-4c90-bf00-e186-0556b19c0713"
             }
@@ -369,19 +433,23 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "6749eee5-24b3-3c7d-c129-70b6a15bd157",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.498,
+                    1.9995,
+                    0.9997
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6749eee5-24b3-3c7d-c129-70b6a15bd157"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wood Ramp 01"
                 }
             ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -7.4981,
-                    1.9995,
-                    0.9997
-                ]
-            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "25bf9e88-27e0-8865-3ad4-8e101a9af776"
             }
@@ -389,19 +457,23 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "8aa148de-fe20-7396-6cbc-27c541d227ed",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.498,
+                    5.5022,
+                    5.9984
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "8aa148de-fe20-7396-6cbc-27c541d227ed"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wood Ramp 02"
                 }
             ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -7.4981,
-                    5.5023,
-                    5.9985
-                ]
-            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "25bf9e88-27e0-8865-3ad4-8e101a9af776"
             }
@@ -409,19 +481,23 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "147969bd-5fe6-861c-eaf5-e20de5fdbcaa",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.498,
+                    7.998,
+                    3.0982
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "147969bd-5fe6-861c-eaf5-e20de5fdbcaa"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wood Ramp 03"
                 }
             ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -7.4981,
-                    7.998,
-                    3.0983
-                ]
-            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "25bf9e88-27e0-8865-3ad4-8e101a9af776"
             }
@@ -429,19 +505,23 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "1ccfb321-eb4d-5ac5-f329-3f031129b449",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    8.9976,
+                    1.9995
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "1ccfb321-eb4d-5ac5-f329-3f031129b449"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Block Brick 01"
                 }
             ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.0,
-                    8.9978,
-                    1.9995
-                ]
-            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "192d7792-d9ca-9e67-270d-8b4e4e662539"
             }
@@ -449,12 +529,6 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "ec7605d2-d09d-744d-f712-d8e627f99aa8",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Block Brick 02"
-                }
-            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     0.0,
@@ -462,6 +536,16 @@
                     1.9995
                 ]
             },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ec7605d2-d09d-744d-f712-d8e627f99aa8"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Brick 02"
+                }
+            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "192d7792-d9ca-9e67-270d-8b4e4e662539"
             }
@@ -469,12 +553,6 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "7a4f0f9c-f91a-d161-45a6-fa159d91e2a3",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Block Brick 03"
-                }
-            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     0.0,
@@ -482,6 +560,16 @@
                     1.9995
                 ]
             },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7a4f0f9c-f91a-d161-45a6-fa159d91e2a3"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Brick 03"
+                }
+            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "192d7792-d9ca-9e67-270d-8b4e4e662539"
             }
@@ -489,12 +577,6 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "9cc1d7dc-eba2-4609-44dd-bff517adae0f",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Block Brick 04"
-                }
-            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     0.0,
@@ -502,6 +584,16 @@
                     1.9995
                 ]
             },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9cc1d7dc-eba2-4609-44dd-bff517adae0f"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Brick 04"
+                }
+            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "192d7792-d9ca-9e67-270d-8b4e4e662539"
             }
@@ -509,12 +601,6 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "21c5c62b-bb6f-7097-272e-3078e96cabed",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Block Brick 05"
-                }
-            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     0.0,
@@ -522,6 +608,16 @@
                     1.9995
                 ]
             },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "21c5c62b-bb6f-7097-272e-3078e96cabed"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Block Brick 05"
+                }
+            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "192d7792-d9ca-9e67-270d-8b4e4e662539"
             }
@@ -529,19 +625,23 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "42b160fe-e28f-6532-c266-79e5897fbbf8",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    11.9968,
+                    1.9995
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "42b160fe-e28f-6532-c266-79e5897fbbf8"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Block Brick 06"
                 }
             ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.0,
-                    11.997,
-                    1.9995
-                ]
-            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "192d7792-d9ca-9e67-270d-8b4e4e662539"
             }
@@ -549,12 +649,6 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "004fd5be-b485-b723-d624-7876831ea557",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Sign Arrow"
-                }
-            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     5.4573,
@@ -562,6 +656,16 @@
                     -0.0
                 ]
             },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "004fd5be-b485-b723-d624-7876831ea557"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sign Arrow"
+                }
+            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "5fb1b2d0-2379-0816-c52a-98ff7df0c39e"
             }
@@ -569,19 +673,23 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "32a51deb-8a7a-6cae-a9b2-eb48a9193e3d",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.498,
+                    -3.999,
+                    0.4997
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "32a51deb-8a7a-6cae-a9b2-eb48a9193e3d"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Crate"
                 }
             ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -7.4981,
-                    -3.999,
-                    0.4998
-                ]
-            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "8824fd47-e57f-b6ea-7023-9d84812b9953"
             }
@@ -589,19 +697,23 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "ef5e58cb-c2c4-2f82-2315-30c45b21b15e",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.0,
+                    11.4969,
+                    6.0144
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ef5e58cb-c2c4-2f82-2315-30c45b21b15e"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Block Powerup"
                 }
             ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -0.0,
-                    11.4971,
-                    6.0144
-                ]
-            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "29bca0e4-133d-8c87-24fc-01e0582397ce"
             }
@@ -609,24 +721,28 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "e5598c93-2206-7977-35ea-821f39c1b44e",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Coin 01"
-                }
-            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -7.4981,
+                    -7.498,
                     2.4993,
                     10.4974
                 ],
                 "rotation": [
                     90.0,
                     -0.0,
-                    89.9999
+                    89.9997
                 ]
             },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e5598c93-2206-7977-35ea-821f39c1b44e"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coin 01"
+                }
+            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "678cb76d-0dcd-d661-c9ca-3b1ec7d3d810"
             }
@@ -634,24 +750,28 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "be44f572-ddd9-5093-0ae4-bb551dcacabc",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.998,
+                    -2.4993,
+                    7.498
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    89.9997
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "be44f572-ddd9-5093-0ae4-bb551dcacabc"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Coin 02"
                 }
             ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    7.998,
-                    -2.4993,
-                    7.4981
-                ],
-                "rotation": [
-                    90.0,
-                    -0.0,
-                    89.9999
-                ]
-            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "678cb76d-0dcd-d661-c9ca-3b1ec7d3d810"
             }
@@ -659,24 +779,28 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "e0802ef5-7c65-4bd4-06d5-4d0cd32c58aa",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.998,
+                    1.9995,
+                    8.9976
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    89.9997
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e0802ef5-7c65-4bd4-06d5-4d0cd32c58aa"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Coin 03"
                 }
             ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    7.998,
-                    1.9995,
-                    8.9978
-                ],
-                "rotation": [
-                    90.0,
-                    -0.0,
-                    89.9999
-                ]
-            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "678cb76d-0dcd-d661-c9ca-3b1ec7d3d810"
             }
@@ -684,19 +808,28 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "6337bb32-5b4c-c936-bae3-4c1445050c93",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.8042,
+                    -6.7305,
+                    0.9994
+                ],
+                "scale": [
+                    1.5044,
+                    1.4905,
+                    0.9995
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6337bb32-5b4c-c936-bae3-4c1445050c93"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Pipe End 01"
                 }
             ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -6.9982,
-                    -5.9985,
-                    0.9997
-                ]
-            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "73676b71-134e-5816-fd7f-b76f517f0d07"
             }
@@ -704,12 +837,6 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "7639b5d0-6169-b837-b550-9170c00da9aa",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pipe Bend 01"
-                }
-            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     7.998,
@@ -717,6 +844,16 @@
                     10.9973
                 ]
             },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7639b5d0-6169-b837-b550-9170c00da9aa"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe Bend 01"
+                }
+            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "6fe6b2b4-fdcc-72de-0403-5f257b218796"
             }
@@ -724,12 +861,6 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "93605403-23bf-b06a-4598-ec0f58f34c78",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pipe Bend 02"
-                }
-            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     7.998,
@@ -737,11 +868,21 @@
                     10.9973
                 ],
                 "rotation": [
-                    -0.0,
-                    -0.0,
-                    -179.9999
+                    0.0,
+                    0.0,
+                    -179.9998
                 ]
             },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "93605403-23bf-b06a-4598-ec0f58f34c78"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe Bend 02"
+                }
+            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "6fe6b2b4-fdcc-72de-0403-5f257b218796"
             }
@@ -749,19 +890,23 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "ba670691-d295-bb22-280a-8025f0615aee",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.998,
+                    14.9961,
+                    10.9973
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ba670691-d295-bb22-280a-8025f0615aee"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Pipe Straight 01"
                 }
             ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    7.998,
-                    14.9963,
-                    10.9973
-                ]
-            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "19fb200f-a23d-c892-11d6-faf619b296b3"
             }
@@ -769,17 +914,11 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "a2070461-aaff-ec00-215b-206eb05dcf1a",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pipe Straight 02"
-                }
-            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     7.998,
                     16.9958,
-                    8.9978
+                    8.9976
                 ],
                 "rotation": [
                     90.0,
@@ -787,6 +926,16 @@
                     0.0
                 ]
             },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a2070461-aaff-ec00-215b-206eb05dcf1a"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe Straight 02"
+                }
+            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "19fb200f-a23d-c892-11d6-faf619b296b3"
             }
@@ -794,17 +943,11 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "c132ab84-c661-4dfc-7719-9e56574bcbfe",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pipe Straight 03"
-                }
-            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     7.998,
                     16.9958,
-                    6.9982
+                    6.998
                 ],
                 "rotation": [
                     90.0,
@@ -812,6 +955,16 @@
                     0.0
                 ]
             },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c132ab84-c661-4dfc-7719-9e56574bcbfe"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe Straight 03"
+                }
+            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "19fb200f-a23d-c892-11d6-faf619b296b3"
             }
@@ -819,12 +972,6 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "e79e0e8f-9f3c-eaac-df90-89107fc2a982",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pipe Straight 04"
-                }
-            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     7.998,
@@ -837,6 +984,16 @@
                     0.0
                 ]
             },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e79e0e8f-9f3c-eaac-df90-89107fc2a982"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe Straight 04"
+                }
+            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "19fb200f-a23d-c892-11d6-faf619b296b3"
             }
@@ -844,12 +1001,6 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "1de72f10-5e62-1fab-ec25-b2ee13eb0594",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pipe Straight 05"
-                }
-            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     7.998,
@@ -862,6 +1013,16 @@
                     0.0
                 ]
             },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "1de72f10-5e62-1fab-ec25-b2ee13eb0594"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe Straight 05"
+                }
+            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "19fb200f-a23d-c892-11d6-faf619b296b3"
             }
@@ -869,12 +1030,6 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "7297ca48-6f4b-27a3-596c-d1170b6e9714",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pipe Straight 06"
-                }
-            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     7.998,
@@ -887,6 +1042,16 @@
                     0.0
                 ]
             },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7297ca48-6f4b-27a3-596c-d1170b6e9714"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe Straight 06"
+                }
+            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "19fb200f-a23d-c892-11d6-faf619b296b3"
             }
@@ -894,24 +1059,28 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "8a9964c8-795c-136d-99b3-50833a7c0ea1",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.998,
+                    12.9968,
+                    8.9976
+                ],
+                "rotation": [
+                    -179.9998,
+                    -0.0,
+                    -30.0
+                ]
+            },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "8a9964c8-795c-136d-99b3-50833a7c0ea1"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Pipe End 02"
                 }
             ],
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    7.998,
-                    12.9968,
-                    8.9978
-                ],
-                "rotation": [
-                    -179.9999,
-                    0.0,
-                    -30.0
-                ]
-            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "24efc7fe-8d48-f7fb-eaa2-c42398903d9a"
             }
@@ -932,6 +1101,7 @@
                     "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
                     "type": 0,
                     "layer": 0,
+                    "body_flags": 4,
                     "maximumAngularVelocity": 2700.0,
                     "overriddenMass": 0.0
                 }
@@ -990,14 +1160,14 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b40e846a-e742-233f-44c4-bcd4659f23f8"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b40e846a-e742-233f-44c4-bcd4659f23f8"
                 },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -1014,7 +1184,11 @@
                     0.0,
                     1.0
                 ],
-				"rotation": [ 0, 0, 180 ]
+                "rotation": [
+                    0.0,
+                    0.0,
+                    180.0
+                ]
             },
             "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
                 "asset": "ec66ce19-1e67-478b-a8e6-07b9cf74df4c"
@@ -1070,14 +1244,14 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "580323ef-65fc-97d6-42d3-293b8bd5d2d9"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "580323ef-65fc-97d6-42d3-293b8bd5d2d9"
                 },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -1109,19 +1283,18 @@
             "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
                 "radius": 40.0,
                 "irradiance": "0189facb-9813-b927-e4bf-59777b6cabd8",
-                "brdf": "9e2a793b-8ff7-f993-25ab-f3f4542f5cfb",
                 "prefiltered": "0ad0d9fa-4d06-48e2-fa41-5589ee877ed6"
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b54a4a9d-74ce-850a-877f-f11380ab14ef"
+                },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b54a4a9d-74ce-850a-877f-f11380ab14ef"
                 },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -1140,8 +1313,8 @@
             },
             "9f750482-b822-4d4b-be6a-9c135c614328": {
                 "stages": [
-                    "d3b37153-2dce-4574-a8f1-f118df0e8e30",
-                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                    "86d22670-1f09-4246-ae43-ef7f1b16c977",
+                    "d3b37153-2dce-4574-a8f1-f118df0e8e30"
                 ]
             },
             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
@@ -1150,14 +1323,14 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c3ed8ab5-4fcb-f57a-d4d9-78d697ad31dd"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c3ed8ab5-4fcb-f57a-d4d9-78d697ad31dd"
                 },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -1170,9 +1343,9 @@
             "instanceGuid": "e2ed7db4-9e7c-0a64-b2d2-b6ecfea8078f",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -7.0,
-                    -5.5,
-                    1.0
+                    -7.7849,
+                    -6.7254,
+                    0.9997
                 ]
             },
             "183d677a-b427-4b1d-a276-97b3e6681304": {
@@ -1199,7 +1372,7 @@
                     "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
                     "type": 0,
                     "layer": 3,
-                    "body_flags": 1,
+                    "body_flags": 5,
                     "maximumAngularVelocity": 2700.0,
                     "overriddenMass": 0.0
                 }
@@ -1260,7 +1433,7 @@
                     "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
                     "type": 0,
                     "layer": 3,
-                    "body_flags": 1,
+                    "body_flags": 5,
                     "maximumAngularVelocity": 2700.0,
                     "overriddenMass": 0.0
                 }
