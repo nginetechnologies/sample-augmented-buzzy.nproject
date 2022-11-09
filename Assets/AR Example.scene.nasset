@@ -1234,7 +1234,7 @@
             "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e": {
                 "color": "#fdfdfd00",
                 "cascades": 4,
-                "intensity": 1.0,
+                "intensity": 20.0,
                 "cascade_distances": [
                     6.0,
                     12.0,
