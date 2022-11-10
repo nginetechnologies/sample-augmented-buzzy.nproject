@@ -670,7 +670,8 @@
     "be6d6eb3-7444-49cf-8641-9433290804ec": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
-        "thumbnail": "596fd65b-7dd2-434d-9e8f-6b8919d35ca9"
+        "thumbnail": "596fd65b-7dd2-434d-9e8f-6b8919d35ca9",
+        "tags": [ "f5777f96-a43c-4ebd-872a-1eeda5719aaf" ]
     },
     "bea3fa4b-3681-3f42-f97a-682dd6ec5345": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
