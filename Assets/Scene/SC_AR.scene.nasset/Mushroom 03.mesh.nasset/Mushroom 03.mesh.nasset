@@ -1,16 +1,16 @@
 {
-    "guid": "841890c8-e743-4dfb-4b49-cf40409cd65a",
+    "guid": "96082801-90c4-4ce6-801e-51a99d356068",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "dd5b075c-8b81-bce5-1ec4-8013d3aa3dd7",
+    "instanceGuid": "ce2f8d38-119a-8118-08d4-75c44325fd15",
     "data_components": [],
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "f5aad581-0b1f-d550-5475-147bfadb1b06",
+            "instanceGuid": "fee3c47f-9ba0-e1dc-f7bd-11a0db7662f6",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -24,21 +24,21 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "bc9c015e-8c52-e3fd-4996-a7065c671f80",
+                    "instanceGuid": "c4722a7a-3890-a7cb-4b04-cc96b6ed41ed",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Mushroom 03 Purple 900 Collider"
+                            "name": "Mushroom 03 Purple Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "9030f435-ac1c-fade-638c-ae976534bddd",
+                            "instanceGuid": "d781d42f-8fce-9569-7649-9c43015ec246",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Mushroom 03 Purple 900"
+                                    "name": "Mushroom 03 Purple"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -48,13 +48,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "fc99598b-d6ee-2fc7-5566-9d17ff12cfeb",
-                                "material_instance": "c814d52f-8aa9-75a7-d088-838e1bfa7fb8"
+                                "mesh": "dee41c24-41c5-3e45-ba61-e2448810967d",
+                                "material_instance": "11d5ea34-4fe9-8c5f-9d1c-120cdcc4dea4"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "fc99598b-d6ee-2fc7-5566-9d17ff12cfeb"
+                        "mesh": "dee41c24-41c5-3e45-ba61-e2448810967d"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -62,7 +62,7 @@
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "76973e34-bff8-7ffb-83c8-6edd34d67ec3",
+                    "instanceGuid": "187766c5-4554-3efc-0a15-64b6a37ea213",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -72,7 +72,7 @@
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "ca4513a1-2d67-c84a-d73b-502c4d328d22",
+                            "instanceGuid": "6a4fd700-1302-248b-38c5-3b54812c902f",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -86,13 +86,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "bf9f3bd8-2fd6-b71f-d81a-45df115df924",
-                                "material_instance": "2680da0f-854c-4a77-db68-37c8d30d16c6"
+                                "mesh": "d4560c56-d46c-e9ad-438c-ae8aeb1dc39c",
+                                "material_instance": "c63c887d-9e73-edab-79be-9f992a216f36"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "bf9f3bd8-2fd6-b71f-d81a-45df115df924"
+                        "mesh": "d4560c56-d46c-e9ad-438c-ae8aeb1dc39c"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -102,7 +102,6 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "841890c8-e743-4dfb-4b49-cf40409cd65a"
-    },
-    "thumbnailGuid": "057386d4-1a97-2c6e-0af4-47d09f9d856a"
+        "scene": "96082801-90c4-4ce6-801e-51a99d356068"
+    }
 }

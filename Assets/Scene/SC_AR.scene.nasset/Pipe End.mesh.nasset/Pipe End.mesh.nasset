@@ -1,16 +1,16 @@
 {
-    "guid": "73676b71-134e-5816-fd7f-b76f517f0d07",
+    "guid": "7d54a88b-1511-d6c8-6299-aa603ee04b12",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "9276d0bb-e74a-9497-9c4e-853a449e5738",
+    "instanceGuid": "e3412d40-603d-3f1f-6309-31929c4e9a10",
     "data_components": [],
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "e9029c0f-a599-63d8-8b95-be05069d4311",
+            "instanceGuid": "8d427f70-8e11-cde7-2fc0-db2f721734c0",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -24,21 +24,21 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "e0b086a8-2a4c-73f6-68c8-0aa54b226f65",
+                    "instanceGuid": "42fdb7b2-3a37-20c0-7661-d5f1150e455c",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Pipe End Lime 500 Collider"
+                            "name": "Pipe End Blue Light Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "311f3fe6-1597-33d9-213d-ae74206a9d79",
+                            "instanceGuid": "5cc97593-e907-7623-9208-9239e8b41694",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Pipe End Lime 500"
+                                    "name": "Pipe End Blue Light"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -48,13 +48,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "4865c235-ce39-f9a2-443d-0c98caa1cb6e",
-                                "material_instance": "bff4405d-35db-37ef-2032-7c0a4d0b36ba"
+                                "mesh": "4796619f-d5f6-6f08-96d2-1030469be791",
+                                "material_instance": "b3fe6d53-ddb2-9497-63c3-d6132d8d9446"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "4865c235-ce39-f9a2-443d-0c98caa1cb6e"
+                        "mesh": "4796619f-d5f6-6f08-96d2-1030469be791"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -62,21 +62,21 @@
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "1154ea2e-e6d2-eb91-5022-6f581c650ac1",
+                    "instanceGuid": "777c4fb7-dd73-b570-9625-51abf1d85703",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Pipe End Purple 500 Collider"
+                            "name": "Pipe End Blue Dark Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "70bf94db-1ac6-e5b5-beb0-6ca164c3a850",
+                            "instanceGuid": "c18dcc63-abda-5f51-7bbf-e61db2407226",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Pipe End Purple 500"
+                                    "name": "Pipe End Blue Dark"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -86,13 +86,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "c116e893-97b1-c544-2d32-1058c1c5e441",
-                                "material_instance": "ed9d9686-74c1-0eb0-2ba2-7b74846399b4"
+                                "mesh": "8cbc7f67-7e37-f1f6-75c1-f8866e6bd2ed",
+                                "material_instance": "8e6da002-d714-c7b0-bf16-e410eb55ed45"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "c116e893-97b1-c544-2d32-1058c1c5e441"
+                        "mesh": "8cbc7f67-7e37-f1f6-75c1-f8866e6bd2ed"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -102,7 +102,6 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "73676b71-134e-5816-fd7f-b76f517f0d07"
-    },
-    "thumbnailGuid": "02d26a28-869d-7ae3-a312-33d3aa3fb39a"
+        "scene": "7d54a88b-1511-d6c8-6299-aa603ee04b12"
+    }
 }

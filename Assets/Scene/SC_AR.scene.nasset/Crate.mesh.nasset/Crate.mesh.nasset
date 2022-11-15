@@ -1,16 +1,16 @@
 {
-    "guid": "8824fd47-e57f-b6ea-7023-9d84812b9953",
+    "guid": "404ef79f-38aa-4930-12ba-895b42bf733b",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "2742b482-73a4-7957-ef2b-c2116b4391f8",
+    "instanceGuid": "31c52dc3-8f71-2ffb-0154-8ab6057d7bde",
     "data_components": [],
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "326d6705-5747-f18b-6068-a647ff5f6247",
+            "instanceGuid": "e5f9a08b-e4d9-5c36-c9ee-7b716f7966c7",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -24,21 +24,21 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "a2e601cb-5991-b373-bd63-62faf60a3df0",
+                    "instanceGuid": "805bdaed-1c6c-2ff0-93cb-1f45946249e0",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Crate Purple 500 Collider"
+                            "name": "Crate White Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "33ff4d1e-6772-44f4-636d-206921c98f52",
+                            "instanceGuid": "3e096ffc-32da-85e3-2c05-c8c2d561481c",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Crate Purple 500"
+                                    "name": "Crate White"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -48,13 +48,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "ceeb07b8-b5af-d7b4-facb-b6a6911a8601",
-                                "material_instance": "ed9d9686-74c1-0eb0-2ba2-7b74846399b4"
+                                "mesh": "3dcd6a59-4518-5563-b6ed-a7b18762396c",
+                                "material_instance": "c63c887d-9e73-edab-79be-9f992a216f36"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "ceeb07b8-b5af-d7b4-facb-b6a6911a8601"
+                        "mesh": "3dcd6a59-4518-5563-b6ed-a7b18762396c"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -62,21 +62,21 @@
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "ab91bcb5-f815-2987-6bbd-e2646c9cae4b",
+                    "instanceGuid": "528cdcec-d554-eb25-c072-36b9ca4509c4",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Crate Cyan 500 Collider"
+                            "name": "Crate Orange Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "0b6c4e47-a485-ce3c-85a0-d1d0a325adff",
+                            "instanceGuid": "2320d944-3b26-7c24-2d20-9a882e8e7473",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Crate Cyan 500"
+                                    "name": "Crate Orange"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -86,13 +86,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "1e619b94-10ef-646f-969a-16b1637ef1f2",
-                                "material_instance": "92162f42-6d32-0fdf-428a-083d7c43799a"
+                                "mesh": "08b4a778-fee0-dcd6-eec9-88e489df8776",
+                                "material_instance": "f09b7b1e-3861-e79b-0d89-1bc3d2be3232"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "1e619b94-10ef-646f-969a-16b1637ef1f2"
+                        "mesh": "08b4a778-fee0-dcd6-eec9-88e489df8776"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -102,7 +102,6 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "8824fd47-e57f-b6ea-7023-9d84812b9953"
-    },
-    "thumbnailGuid": "7d3d9ce4-376a-ccc0-b778-54206c6b7280"
+        "scene": "404ef79f-38aa-4930-12ba-895b42bf733b"
+    }
 }

@@ -1,16 +1,16 @@
 {
-    "guid": "192d7792-d9ca-9e67-270d-8b4e4e662539",
+    "guid": "019192a5-3a94-2b11-0313-2db9d66cf521",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "3edfdb17-afda-47f9-cadf-c128b624d211",
+    "instanceGuid": "b5d42774-8e77-e9b0-0832-dffcda520975",
     "data_components": [],
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "df306537-0431-2153-8c09-c2b1a300559d",
+            "instanceGuid": "5a27952b-a5e9-69f5-4040-17d626820e2d",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -24,21 +24,21 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "ac9eb8df-5d27-a077-0596-518ac08d2327",
+                    "instanceGuid": "95b8c6a2-ce49-143b-c17a-4cbca46cb362",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Block Brick Cyan 500 Collider"
+                            "name": "Block Brick Red Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "4c1fc57b-6011-bd41-c82d-d023123eb690",
+                            "instanceGuid": "83e7fa19-c1f2-a260-816a-75ee46cd873a",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Block Brick Cyan 500"
+                                    "name": "Block Brick Red"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -48,13 +48,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "a0e171df-26e1-5946-d0aa-e4bddfebad81",
-                                "material_instance": "92162f42-6d32-0fdf-428a-083d7c43799a"
+                                "mesh": "7aa81622-4015-3a16-a9c3-33690b68525d",
+                                "material_instance": "2d9165d9-07af-7c0c-76eb-59b9590f7a8a"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "a0e171df-26e1-5946-d0aa-e4bddfebad81"
+                        "mesh": "7aa81622-4015-3a16-a9c3-33690b68525d"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -64,7 +64,6 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "192d7792-d9ca-9e67-270d-8b4e4e662539"
-    },
-    "thumbnailGuid": "508c9568-e98a-b7b8-3646-111a555f45a7"
+        "scene": "019192a5-3a94-2b11-0313-2db9d66cf521"
+    }
 }

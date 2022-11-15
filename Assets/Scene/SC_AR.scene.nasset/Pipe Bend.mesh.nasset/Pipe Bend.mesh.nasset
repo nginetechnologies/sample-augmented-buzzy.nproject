@@ -1,16 +1,16 @@
 {
-    "guid": "6fe6b2b4-fdcc-72de-0403-5f257b218796",
+    "guid": "4e8b1088-d3eb-692f-025d-54bb375ffea9",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "c0482a1c-273c-2eaa-de5b-050bed242a6e",
+    "instanceGuid": "ed76025a-5732-237f-f19d-c2224e30a3cb",
     "data_components": [],
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "194c332b-79b1-7020-83b6-4fca7e66b0f7",
+            "instanceGuid": "cffe1c63-93cd-2b9f-cad2-ade7cb79a169",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -24,21 +24,21 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "811095a5-3c2b-4f29-fada-c148ccaf9328",
+                    "instanceGuid": "885d09bf-e637-1fad-6abc-36717bf8ede2",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Pipe Bend Purple 500 Collider"
+                            "name": "Pipe Bend Blue Dark Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "36f89546-34c8-c59b-a244-978683130c66",
+                            "instanceGuid": "3e896a33-8925-004e-8ae8-7d34d358a352",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Pipe Bend Purple 500"
+                                    "name": "Pipe Bend Blue Dark"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -48,13 +48,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "baa79bde-2834-08a9-59c0-25669993bc00",
-                                "material_instance": "ed9d9686-74c1-0eb0-2ba2-7b74846399b4"
+                                "mesh": "947a0b44-f40b-b873-2c8c-105d0e54eab5",
+                                "material_instance": "8e6da002-d714-c7b0-bf16-e410eb55ed45"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "baa79bde-2834-08a9-59c0-25669993bc00"
+                        "mesh": "947a0b44-f40b-b873-2c8c-105d0e54eab5"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -64,7 +64,6 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "6fe6b2b4-fdcc-72de-0403-5f257b218796"
-    },
-    "thumbnailGuid": "e0c2a4c7-d40e-d56c-2fc7-0f6b05c08258"
+        "scene": "4e8b1088-d3eb-692f-025d-54bb375ffea9"
+    }
 }
