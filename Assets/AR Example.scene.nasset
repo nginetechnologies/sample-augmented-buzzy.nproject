@@ -16,19 +16,24 @@
                 "9ae0e145-86b4-4e47-afda-697bbd008922": {
                     "fieldOfView": 60.0,
                     "nearPlane": 0.1,
-                    "farPlane": 128.0
+                    "farPlane": 128.0,
+                    "panSpeed": 500.0,
+                    "pinchSpeed": 50.0,
+                    "rotationSpeed": 500.0,
+                    "orbitRotationSpeed": 10.0,
+                    "scrollSpeed": 0.1
                 }
             },
             "transform": {
                 "position": [
-                    7.4595,
-                    -5.4226,
-                    12.0739
+                    19.985,
+                    -16.5157,
+                    10.0781
                 ],
                 "rotation": [
-                    -24.5499,
+                    -13.9955,
                     -0.0,
-                    42.012
+                    49.5204
                 ]
             },
             "grid_settings": {
@@ -36,8 +41,8 @@
                 "ecc5ac5d-5450-4808-97b1-e25d91462d96": {
                     "transform": {
                         "position": [
-                            -7.7868,
-                            -6.7271,
+                            -7.7866,
+                            -6.727,
                             1.0
                         ]
                     }
@@ -48,1041 +53,1193 @@
     "children": [
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "be5f4116-fa5b-e5ec-c7b9-4ca964a9eb56",
+            "instanceGuid": "f86dac40-0827-58f4-ba45-7c88d22e51c7",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -5.4986,
-                    -5.4986,
+                    -5.5,
+                    -5.5,
                     -0.0
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "be5f4116-fa5b-e5ec-c7b9-4ca964a9eb56"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Mushroom 01"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f86dac40-0827-58f4-ba45-7c88d22e51c7"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "316c0d5e-d811-c106-6366-02d64736fb60"
+                "scene": "c02004d6-4651-3fc0-5066-1e0246ec738a"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "becbf7dc-a271-245f-58eb-478b09f34751",
+            "instanceGuid": "ac4b2438-6325-4cb9-71a8-6b38a7d19135",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -4.9987,
-                    -5.9984,
+                    -5.0,
+                    -6.0,
                     -0.0
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "becbf7dc-a271-245f-58eb-478b09f34751"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Mushroom 02"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ac4b2438-6325-4cb9-71a8-6b38a7d19135"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "5fe6b094-bc04-433c-14ee-3f3d87b0b0a6"
+                "scene": "eb9ca98f-0be3-2fb6-0adf-62c41d156ba6"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "37716cea-a369-8b4e-33e8-9d9f11b34244",
+            "instanceGuid": "e0062da0-f5b7-982d-e6e3-577f2bf79d66",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -5.4986,
-                    -6.4984,
+                    -5.4998,
+                    -6.5,
                     -0.0
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "37716cea-a369-8b4e-33e8-9d9f11b34244"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Mushroom 03"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e0062da0-f5b7-982d-e6e3-577f2bf79d66"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "841890c8-e743-4dfb-4b49-cf40409cd65a"
+                "scene": "96082801-90c4-4ce6-801e-51a99d356068"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "68cf2320-6306-104a-57d5-e07e51d41eaf",
+            "instanceGuid": "c610c399-ecfb-9e29-031d-8a7d2b784dc3",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    3.999,
-                    9.9975,
+                    4.0,
+                    10.0,
                     0.0
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "68cf2320-6306-104a-57d5-e07e51d41eaf"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Tree Green"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c610c399-ecfb-9e29-031d-8a7d2b784dc3"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "c988e97e-0e16-47c4-7e96-415878f7d189"
+                "scene": "57480d83-17e7-c00b-2e50-5aed85587727"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "cd339517-2011-e246-556c-b7585e35bd91",
+            "instanceGuid": "e2f0d84c-ddfa-615b-c9dc-c06b7ae0624a",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    3.999,
-                    -11.9968,
+                    4.0,
+                    -12.0,
                     0.0
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "cd339517-2011-e246-556c-b7585e35bd91"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Tree Cyan"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e2f0d84c-ddfa-615b-c9dc-c06b7ae0624a"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "3b95f9f5-f76e-43dd-933a-0e5a1e88689d"
+                "scene": "1f36b2c0-24b5-d9f7-2d9e-b01194bdeb00"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "09dc1005-caf5-9fac-4b5a-516e1763f930",
+            "instanceGuid": "a20c4139-6233-6383-a7a7-f09327fee065",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -6.998,
-                    -9.4975,
+                    -7.0,
+                    -9.5,
                     -0.0
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "09dc1005-caf5-9fac-4b5a-516e1763f930"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Tree Red"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a20c4139-6233-6383-a7a7-f09327fee065"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "8b2c404c-a44b-987c-02ff-3aede31a1ac6"
+                "scene": "99814c42-4be2-f2bb-2118-1abfdfc9e32b"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "13954938-16dd-38f5-0d37-59c2b5f5c0de",
+            "instanceGuid": "346978e9-a753-aa5b-cd0b-9088cc01bc59",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -10.0011,
+                    -10.0037,
                     -0.0062,
                     0.0
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "13954938-16dd-38f5-0d37-59c2b5f5c0de"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Tree Purple"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "346978e9-a753-aa5b-cd0b-9088cc01bc59"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "ca191aba-c272-a744-9d6a-6c75826b4123"
+                "scene": "198be309-fd60-9e64-327a-a68901be2e8c"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "eb049d8d-5de2-46ed-89a9-c1aebde47e97",
+            "instanceGuid": "90557ec2-ce7a-e130-24a1-735367a444bc",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    7.998,
-                    1.9995,
-                    5.4986
+                    8.0,
+                    1.9996,
+                    5.5
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "eb049d8d-5de2-46ed-89a9-c1aebde47e97"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Prop Block 2x2"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "90557ec2-ce7a-e130-24a1-735367a444bc"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "0854e6ed-ba8f-0ef8-4de9-90c22e7cfd5e"
+                "scene": "adbc9939-2928-7cb0-848b-eda59b6346cc"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "5d8a98cf-8565-04e8-d900-d8a29cbcf02e",
+            "instanceGuid": "34adaa52-02fb-7637-a950-42d1d480fd02",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    7.998,
-                    -2.4993,
-                    3.999
+                    7.9998,
+                    -2.5,
+                    3.9999
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "5d8a98cf-8565-04e8-d900-d8a29cbcf02e"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Prop Block 2x3"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "34adaa52-02fb-7637-a950-42d1d480fd02"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "1ad7753e-4518-006f-a052-45d05c60f513"
+                "scene": "e0b9f7b0-ad5d-106e-358f-9a755ab3fb6e"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "e0b551be-82db-40c5-5449-413ad33ab595",
+            "instanceGuid": "5ff28531-98c8-01e4-30d3-8040bc72cd92",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    7.998,
-                    -8.0346,
+                    8.0,
+                    -8.0361,
                     1.4996
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e0b551be-82db-40c5-5449-413ad33ab595"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Prop Block 2x4"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5ff28531-98c8-01e4-30d3-8040bc72cd92"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "9700f9b0-87fc-1c8c-1e88-e77cb014c790"
+                "scene": "a6664d7f-ae65-dd92-8559-b245013b76f5"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "3c2bcb28-2302-699c-89b1-65cfdacf2e8b",
+            "instanceGuid": "008a6aba-7646-1ada-3f2f-ef6ef8ac1897",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -7.498,
-                    4.9987,
-                    1.9995
+                    -7.5,
+                    5.0,
+                    2.0
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "3c2bcb28-2302-699c-89b1-65cfdacf2e8b"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wood Flat 01"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "008a6aba-7646-1ada-3f2f-ef6ef8ac1897"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "62bbc3e5-4c90-bf00-e186-0556b19c0713"
+                "scene": "774f3c39-7185-5cb5-6f70-401e2dc358d3"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "6645c5fe-1515-eba1-4013-6d61f3113cf3",
+            "instanceGuid": "a95d067a-89b6-3cda-cde1-11cf992db88e",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -7.498,
-                    2.9992,
-                    7.0282
+                    -7.5,
+                    2.9999,
+                    7.03
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6645c5fe-1515-eba1-4013-6d61f3113cf3"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wood Flat 02"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a95d067a-89b6-3cda-cde1-11cf992db88e"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "62bbc3e5-4c90-bf00-e186-0556b19c0713"
+                "scene": "774f3c39-7185-5cb5-6f70-401e2dc358d3"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "bb6fa79c-2e8f-fcc8-b3a9-c194c1463fbf",
+            "instanceGuid": "75cd50e4-4662-5ef0-40d0-3d7ec9812414",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -7.498,
-                    1.9995,
-                    7.0282
+                    -7.5,
+                    2.0,
+                    7.03
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "bb6fa79c-2e8f-fcc8-b3a9-c194c1463fbf"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wood Flat 03"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "75cd50e4-4662-5ef0-40d0-3d7ec9812414"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "62bbc3e5-4c90-bf00-e186-0556b19c0713"
+                "scene": "774f3c39-7185-5cb5-6f70-401e2dc358d3"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "4acafde9-400d-350e-3a22-164f8f7875e3",
+            "instanceGuid": "e620d927-c130-3294-61fb-e548b490b82c",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -7.498,
-                    9.9975,
-                    3.999
+                    -7.5,
+                    10.0,
+                    4.0
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4acafde9-400d-350e-3a22-164f8f7875e3"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wood Flat 04"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e620d927-c130-3294-61fb-e548b490b82c"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "62bbc3e5-4c90-bf00-e186-0556b19c0713"
+                "scene": "774f3c39-7185-5cb5-6f70-401e2dc358d3"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "ddf3fb0d-5ec0-e6f9-f542-cd3e4995bfb0",
+            "instanceGuid": "44c784b9-7c99-8fff-1093-144701c39ece",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -7.498,
-                    5.9984,
-                    1.9995
+                    -7.5,
+                    6.0,
+                    2.0
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ddf3fb0d-5ec0-e6f9-f542-cd3e4995bfb0"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wood Flat 05"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "44c784b9-7c99-8fff-1093-144701c39ece"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "62bbc3e5-4c90-bf00-e186-0556b19c0713"
+                "scene": "774f3c39-7185-5cb5-6f70-401e2dc358d3"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "772c6d9d-933f-b9e8-3c46-bcef42fa7c53",
+            "instanceGuid": "334b3114-29ab-4946-5727-7ff93f2ac97a",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -7.498,
-                    6.998,
-                    1.9995
+                    -7.5,
+                    7.0,
+                    2.0
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "772c6d9d-933f-b9e8-3c46-bcef42fa7c53"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wood Flat 06"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "334b3114-29ab-4946-5727-7ff93f2ac97a"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "62bbc3e5-4c90-bf00-e186-0556b19c0713"
+                "scene": "774f3c39-7185-5cb5-6f70-401e2dc358d3"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "6749eee5-24b3-3c7d-c129-70b6a15bd157",
+            "instanceGuid": "478780da-c3f2-42b5-35ca-4928f4cad982",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -7.498,
-                    1.9995,
-                    0.9997
+                    -7.5,
+                    2.0,
+                    1.0
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6749eee5-24b3-3c7d-c129-70b6a15bd157"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wood Ramp 01"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "478780da-c3f2-42b5-35ca-4928f4cad982"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "25bf9e88-27e0-8865-3ad4-8e101a9af776"
+                "scene": "455655fe-17e0-1368-2f7e-cc7881d6ff3e"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "8aa148de-fe20-7396-6cbc-27c541d227ed",
+            "instanceGuid": "d463a883-498d-f9fd-bcc3-53c1bb885853",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -7.498,
-                    5.5022,
-                    5.9984
+                    -7.5,
+                    5.5036,
+                    6.0
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "8aa148de-fe20-7396-6cbc-27c541d227ed"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wood Ramp 02"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d463a883-498d-f9fd-bcc3-53c1bb885853"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "25bf9e88-27e0-8865-3ad4-8e101a9af776"
+                "scene": "455655fe-17e0-1368-2f7e-cc7881d6ff3e"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "147969bd-5fe6-861c-eaf5-e20de5fdbcaa",
+            "instanceGuid": "81f3ab0d-7ad1-9179-f30a-72327d4d4021",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -7.498,
-                    7.998,
-                    3.0982
+                    -7.5,
+                    7.9998,
+                    3.0989
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "147969bd-5fe6-861c-eaf5-e20de5fdbcaa"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wood Ramp 03"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "81f3ab0d-7ad1-9179-f30a-72327d4d4021"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "25bf9e88-27e0-8865-3ad4-8e101a9af776"
+                "scene": "455655fe-17e0-1368-2f7e-cc7881d6ff3e"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "1ccfb321-eb4d-5ac5-f329-3f031129b449",
+            "instanceGuid": "62f80550-4a83-c9b8-c046-f2cd86336f4a",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     0.0,
-                    8.9976,
-                    1.9995
+                    9.0,
+                    2.0
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1ccfb321-eb4d-5ac5-f329-3f031129b449"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Block Brick 01"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "62f80550-4a83-c9b8-c046-f2cd86336f4a"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "192d7792-d9ca-9e67-270d-8b4e4e662539"
+                "scene": "019192a5-3a94-2b11-0313-2db9d66cf521"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "ec7605d2-d09d-744d-f712-d8e627f99aa8",
+            "instanceGuid": "d75f8d20-dbeb-34f9-85f7-d2a41e293829",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     0.0,
-                    9.9975,
-                    1.9995
+                    10.0,
+                    2.0
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ec7605d2-d09d-744d-f712-d8e627f99aa8"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Block Brick 02"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d75f8d20-dbeb-34f9-85f7-d2a41e293829"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "192d7792-d9ca-9e67-270d-8b4e4e662539"
+                "scene": "019192a5-3a94-2b11-0313-2db9d66cf521"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "7a4f0f9c-f91a-d161-45a6-fa159d91e2a3",
+            "instanceGuid": "6a43b655-8966-dbd1-f607-30aa770985dc",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     0.0,
-                    12.9968,
-                    1.9995
+                    13.0,
+                    2.0
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "7a4f0f9c-f91a-d161-45a6-fa159d91e2a3"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Block Brick 03"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6a43b655-8966-dbd1-f607-30aa770985dc"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "192d7792-d9ca-9e67-270d-8b4e4e662539"
+                "scene": "019192a5-3a94-2b11-0313-2db9d66cf521"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "9cc1d7dc-eba2-4609-44dd-bff517adae0f",
+            "instanceGuid": "6fa3378f-a954-bfdb-3293-0c7ec92209e2",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     0.0,
-                    13.9965,
-                    1.9995
+                    14.0,
+                    2.0
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9cc1d7dc-eba2-4609-44dd-bff517adae0f"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Block Brick 04"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6fa3378f-a954-bfdb-3293-0c7ec92209e2"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "192d7792-d9ca-9e67-270d-8b4e4e662539"
+                "scene": "019192a5-3a94-2b11-0313-2db9d66cf521"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "21c5c62b-bb6f-7097-272e-3078e96cabed",
+            "instanceGuid": "d8945c85-0ca1-504f-6e02-9cf3be778749",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     0.0,
-                    10.9973,
-                    1.9995
+                    11.0,
+                    2.0
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "21c5c62b-bb6f-7097-272e-3078e96cabed"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Block Brick 05"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d8945c85-0ca1-504f-6e02-9cf3be778749"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "192d7792-d9ca-9e67-270d-8b4e4e662539"
+                "scene": "019192a5-3a94-2b11-0313-2db9d66cf521"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "42b160fe-e28f-6532-c266-79e5897fbbf8",
+            "instanceGuid": "70ed7e7e-cecc-a1d1-2450-f4efcb822ee7",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     0.0,
-                    11.9968,
-                    1.9995
+                    12.0,
+                    2.0
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "42b160fe-e28f-6532-c266-79e5897fbbf8"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Block Brick 06"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "70ed7e7e-cecc-a1d1-2450-f4efcb822ee7"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "192d7792-d9ca-9e67-270d-8b4e4e662539"
+                "scene": "019192a5-3a94-2b11-0313-2db9d66cf521"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "004fd5be-b485-b723-d624-7876831ea557",
+            "instanceGuid": "1b6467af-e42e-03da-ae07-9f3c0cb8eecb",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    5.4573,
-                    -9.467,
+                    5.4587,
+                    -9.4693,
                     -0.0
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "004fd5be-b485-b723-d624-7876831ea557"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Sign Arrow"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "1b6467af-e42e-03da-ae07-9f3c0cb8eecb"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "5fb1b2d0-2379-0816-c52a-98ff7df0c39e"
+                "scene": "f9708a65-528b-772a-3681-8da9a1ca029b"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "32a51deb-8a7a-6cae-a9b2-eb48a9193e3d",
+            "instanceGuid": "623e22b6-5970-774f-8904-d2bc02680ffe",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -7.498,
-                    -3.999,
-                    0.4997
+                    -7.5,
+                    -3.9999,
+                    0.4999
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "32a51deb-8a7a-6cae-a9b2-eb48a9193e3d"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Crate"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "623e22b6-5970-774f-8904-d2bc02680ffe"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "8824fd47-e57f-b6ea-7023-9d84812b9953"
+                "scene": "404ef79f-38aa-4930-12ba-895b42bf733b"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "ef5e58cb-c2c4-2f82-2315-30c45b21b15e",
+            "instanceGuid": "186ef586-056a-299b-5741-931fffa27aae",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -0.0,
-                    11.4969,
-                    6.0144
+                    11.4996,
+                    6.0159
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ef5e58cb-c2c4-2f82-2315-30c45b21b15e"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Block Powerup"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "29bca0e4-133d-8c87-24fc-01e0582397ce"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "e5598c93-2206-7977-35ea-821f39c1b44e",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -7.498,
-                    2.4993,
-                    10.4974
-                ],
-                "rotation": [
-                    90.0,
-                    -0.0,
-                    89.9997
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e5598c93-2206-7977-35ea-821f39c1b44e"
                 },
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Coin 01"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "186ef586-056a-299b-5741-931fffa27aae"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "678cb76d-0dcd-d661-c9ca-3b1ec7d3d810"
+                "scene": "1c558eba-d9d9-5c69-0e2f-10ce124fd63e"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "be44f572-ddd9-5093-0ae4-bb551dcacabc",
+            "instanceGuid": "7c634f4a-a1e4-1efa-7c39-34af705fcf58",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    7.998,
-                    -2.4993,
-                    7.498
+                    -7.0,
+                    -6.0,
+                    1.0
                 ],
                 "rotation": [
-                    90.0,
+                    -90.0,
                     -0.0,
-                    89.9997
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "be44f572-ddd9-5093-0ae4-bb551dcacabc"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Coin 02"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "678cb76d-0dcd-d661-c9ca-3b1ec7d3d810"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "e0802ef5-7c65-4bd4-06d5-4d0cd32c58aa",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    7.998,
-                    1.9995,
-                    8.9976
-                ],
-                "rotation": [
-                    90.0,
-                    -0.0,
-                    89.9997
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e0802ef5-7c65-4bd4-06d5-4d0cd32c58aa"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Coin 03"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "678cb76d-0dcd-d661-c9ca-3b1ec7d3d810"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "6337bb32-5b4c-c936-bae3-4c1445050c93",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -7.8042,
-                    -6.7305,
-                    0.9994
+                    0.0
                 ],
                 "scale": [
-                    1.5044,
-                    1.4905,
-                    0.9995
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6337bb32-5b4c-c936-bae3-4c1445050c93"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Pipe End 01"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7c634f4a-a1e4-1efa-7c39-34af705fcf58"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "73676b71-134e-5816-fd7f-b76f517f0d07"
+                "scene": "7d54a88b-1511-d6c8-6299-aa603ee04b12"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "7639b5d0-6169-b837-b550-9170c00da9aa",
+            "instanceGuid": "3f13401b-8850-ce15-ab2c-6f8853ed9c03",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    7.998,
-                    12.9968,
-                    10.9973
+                    8.0,
+                    13.0,
+                    11.0
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "7639b5d0-6169-b837-b550-9170c00da9aa"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Pipe Bend 01"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "3f13401b-8850-ce15-ab2c-6f8853ed9c03"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "6fe6b2b4-fdcc-72de-0403-5f257b218796"
+                "scene": "4e8b1088-d3eb-692f-025d-54bb375ffea9"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "93605403-23bf-b06a-4598-ec0f58f34c78",
+            "instanceGuid": "6cd0581b-c029-ba6c-56a8-26a97c3505d4",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    7.998,
-                    16.9958,
-                    10.9973
+                    8.0,
+                    17.0,
+                    11.0
                 ],
                 "rotation": [
-                    0.0,
-                    0.0,
-                    -179.9998
+                    -89.999,
+                    -0.0,
+                    -179.9988
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "93605403-23bf-b06a-4598-ec0f58f34c78"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Pipe Bend 02"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6cd0581b-c029-ba6c-56a8-26a97c3505d4"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "6fe6b2b4-fdcc-72de-0403-5f257b218796"
+                "scene": "4e8b1088-d3eb-692f-025d-54bb375ffea9"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "ba670691-d295-bb22-280a-8025f0615aee",
+            "instanceGuid": "96ac63eb-5545-293d-96b6-554f5569e78d",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    7.998,
-                    14.9961,
-                    10.9973
+                    8.0,
+                    15.0,
+                    11.0
+                ],
+                "rotation": [
+                    -90.0,
+                    -0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ba670691-d295-bb22-280a-8025f0615aee"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Pipe Straight 01"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "96ac63eb-5545-293d-96b6-554f5569e78d"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "19fb200f-a23d-c892-11d6-faf619b296b3"
+                "scene": "0befab20-6d29-ffa9-cee2-211d6950a2b6"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "a2070461-aaff-ec00-215b-206eb05dcf1a",
+            "instanceGuid": "0962e1a1-92c7-8c01-63aa-bf923e0e2d84",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    7.998,
-                    16.9958,
-                    8.9976
+                    8.0,
+                    17.0,
+                    9.0
                 ],
-                "rotation": [
-                    90.0,
-                    -0.0,
-                    0.0
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a2070461-aaff-ec00-215b-206eb05dcf1a"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Pipe Straight 02"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0962e1a1-92c7-8c01-63aa-bf923e0e2d84"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "19fb200f-a23d-c892-11d6-faf619b296b3"
+                "scene": "0befab20-6d29-ffa9-cee2-211d6950a2b6"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "c132ab84-c661-4dfc-7719-9e56574bcbfe",
+            "instanceGuid": "eee1a22e-abb5-5e2b-eb67-70e69a12f016",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    7.998,
-                    16.9958,
-                    6.998
+                    8.0,
+                    17.0,
+                    7.0
                 ],
-                "rotation": [
-                    90.0,
-                    -0.0,
-                    0.0
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c132ab84-c661-4dfc-7719-9e56574bcbfe"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Pipe Straight 03"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "eee1a22e-abb5-5e2b-eb67-70e69a12f016"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "19fb200f-a23d-c892-11d6-faf619b296b3"
+                "scene": "0befab20-6d29-ffa9-cee2-211d6950a2b6"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "e79e0e8f-9f3c-eaac-df90-89107fc2a982",
+            "instanceGuid": "a931ab75-913d-1c63-6391-093f2c62752c",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    7.998,
-                    16.9958,
-                    4.9987
+                    8.0,
+                    17.0,
+                    5.0
                 ],
-                "rotation": [
-                    90.0,
-                    -0.0,
-                    0.0
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e79e0e8f-9f3c-eaac-df90-89107fc2a982"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Pipe Straight 04"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a931ab75-913d-1c63-6391-093f2c62752c"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "19fb200f-a23d-c892-11d6-faf619b296b3"
+                "scene": "0befab20-6d29-ffa9-cee2-211d6950a2b6"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "1de72f10-5e62-1fab-ec25-b2ee13eb0594",
+            "instanceGuid": "5963b9dc-a33c-d13e-2732-85b26a4c2b20",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    7.998,
-                    16.9958,
-                    2.9992
+                    8.0,
+                    17.0,
+                    3.0
                 ],
-                "rotation": [
-                    90.0,
-                    -0.0,
-                    0.0
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1de72f10-5e62-1fab-ec25-b2ee13eb0594"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Pipe Straight 05"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5963b9dc-a33c-d13e-2732-85b26a4c2b20"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "19fb200f-a23d-c892-11d6-faf619b296b3"
+                "scene": "0befab20-6d29-ffa9-cee2-211d6950a2b6"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "7297ca48-6f4b-27a3-596c-d1170b6e9714",
+            "instanceGuid": "ac966525-e011-6b46-f816-39491b9db1d7",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    7.998,
-                    16.9958,
-                    0.9997
+                    8.0,
+                    17.0,
+                    1.0
+                ],
+                "scale": [
+                    100.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe Straight 06"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ac966525-e011-6b46-f816-39491b9db1d7"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0befab20-6d29-ffa9-cee2-211d6950a2b6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "717564ef-04dc-470a-4b41-d457e8c5a118",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    8.0,
+                    13.0,
+                    9.0
                 ],
                 "rotation": [
                     90.0,
                     -0.0,
-                    0.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "7297ca48-6f4b-27a3-596c-d1170b6e9714"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Pipe Straight 06"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "19fb200f-a23d-c892-11d6-faf619b296b3"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "8a9964c8-795c-136d-99b3-50833a7c0ea1",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    7.998,
-                    12.9968,
-                    8.9976
+                    -29.9999
                 ],
-                "rotation": [
-                    -179.9998,
-                    -0.0,
-                    -30.0
+                "scale": [
+                    100.0
                 ]
             },
             "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "8a9964c8-795c-136d-99b3-50833a7c0ea1"
-                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Pipe End 02"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "717564ef-04dc-470a-4b41-d457e8c5a118"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "24efc7fe-8d48-f7fb-eaa2-c42398903d9a"
+                "scene": "7d54a88b-1511-d6c8-6299-aa603ee04b12"
             }
         },
         {
@@ -1090,20 +1247,21 @@
             "instanceGuid": "9e71ee4b-b4ec-9324-d5ac-a2b30689bda8",
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9e71ee4b-b4ec-9324-d5ac-a2b30689bda8"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Plane Static Body"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9e71ee4b-b4ec-9324-d5ac-a2b30689bda8"
                 },
                 {
                     "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
                     "type": 0,
                     "layer": 0,
                     "body_flags": 4,
-                    "maximumAngularVelocity": 2700.0,
-                    "overriddenMass": 0.0
+                    "maximumAngularVelocity": 2699.9997,
+                    "overriddenMass": 0.0,
+                    "gravityScale": 1.0
                 }
             ],
             "children": [
@@ -1111,7 +1269,10 @@
                     "typeGuid": "4c1071cc-31cc-4dbe-a810-96f2c521a280",
                     "instanceGuid": "dce58bc5-a92d-7ba1-ac6c-e9cbdf0149fb",
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7",
+                        "comOffset": [
+                            0.0
+                        ]
                     },
                     "4c1071cc-31cc-4dbe-a810-96f2c521a280": {
                         "extent": 20.0,
@@ -1122,12 +1283,12 @@
                     },
                     "data_components": [
                         {
-                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                            "templateInstanceGuid": "dce58bc5-a92d-7ba1-ac6c-e9cbdf0149fb"
-                        },
-                        {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "Plane Collider"
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "dce58bc5-a92d-7ba1-ac6c-e9cbdf0149fb"
                         }
                     ]
                 }
@@ -1160,8 +1321,8 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b40e846a-e742-233f-44c4-bcd4659f23f8"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Shadow Mesh"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -1170,8 +1331,8 @@
                     ]
                 },
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Shadow Mesh"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b40e846a-e742-233f-44c4-bcd4659f23f8"
                 }
             ]
         },
@@ -1186,8 +1347,8 @@
                 ],
                 "rotation": [
                     0.0,
-                    0.0,
-                    180.0
+                    -0.0,
+                    -179.9988
                 ]
             },
             "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
@@ -1195,8 +1356,8 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Point"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -1205,8 +1366,8 @@
                     ]
                 },
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spawn Point"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116"
                 }
             ]
         },
@@ -1244,8 +1405,8 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "580323ef-65fc-97d6-42d3-293b8bd5d2d9"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Light"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -1254,8 +1415,8 @@
                     ]
                 },
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Directional Light"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "580323ef-65fc-97d6-42d3-293b8bd5d2d9"
                 }
             ]
         },
@@ -1287,8 +1448,9 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b54a4a9d-74ce-850a-877f-f11380ab14ef"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light",
+                    "flags": 2
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -1297,9 +1459,8 @@
                     ]
                 },
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Environment Light",
-                    "flags": 2
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b54a4a9d-74ce-850a-877f-f11380ab14ef"
                 }
             ]
         },
@@ -1313,8 +1474,8 @@
             },
             "9f750482-b822-4d4b-be6a-9c135c614328": {
                 "stages": [
-                    "86d22670-1f09-4246-ae43-ef7f1b16c977",
-                    "d3b37153-2dce-4574-a8f1-f118df0e8e30"
+                    "d3b37153-2dce-4574-a8f1-f118df0e8e30",
+                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
                 ]
             },
             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
@@ -1323,8 +1484,8 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c3ed8ab5-4fcb-f57a-d4d9-78d697ad31dd"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skysphere"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -1333,8 +1494,8 @@
                     ]
                 },
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Skysphere"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c3ed8ab5-4fcb-f57a-d4d9-78d697ad31dd"
                 }
             ]
         },
@@ -1343,8 +1504,8 @@
             "instanceGuid": "e2ed7db4-9e7c-0a64-b2d2-b6ecfea8078f",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -7.7849,
-                    -6.7254,
+                    -6.9727,
+                    -5.9836,
                     0.9997
                 ]
             },
@@ -1361,20 +1522,21 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e2ed7db4-9e7c-0a64-b2d2-b6ecfea8078f"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Teleport"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e2ed7db4-9e7c-0a64-b2d2-b6ecfea8078f"
                 },
                 {
                     "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
                     "type": 0,
                     "layer": 3,
                     "body_flags": 5,
-                    "maximumAngularVelocity": 2700.0,
-                    "overriddenMass": 0.0
+                    "maximumAngularVelocity": 2699.9997,
+                    "overriddenMass": 0.0,
+                    "gravityScale": 1.0
                 }
             ],
             "children": [
@@ -1382,24 +1544,24 @@
                     "typeGuid": "e81f4e62-fee0-4182-9c1a-a47c053b813f",
                     "instanceGuid": "ec36482d-ad6c-d9e8-c74c-56455ea17d3e",
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7",
+                        "comOffset": [
+                            0.0
+                        ]
                     },
                     "e81f4e62-fee0-4182-9c1a-a47c053b813f": {
-                        "size": [
-                            0.25
-                        ],
                         "half_extent": [
                             0.25
                         ]
                     },
                     "data_components": [
                         {
-                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                            "templateInstanceGuid": "ec36482d-ad6c-d9e8-c74c-56455ea17d3e"
-                        },
-                        {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "Teleport Collider"
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "ec36482d-ad6c-d9e8-c74c-56455ea17d3e"
                         }
                     ]
                 }
@@ -1422,20 +1584,21 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d3757c63-49fd-41d4-9781-9b15d2470fed"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Teleport Target"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d3757c63-49fd-41d4-9781-9b15d2470fed"
                 },
                 {
                     "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
                     "type": 0,
                     "layer": 3,
                     "body_flags": 5,
-                    "maximumAngularVelocity": 2700.0,
-                    "overriddenMass": 0.0
+                    "maximumAngularVelocity": 2699.9997,
+                    "overriddenMass": 0.0,
+                    "gravityScale": 1.0
                 }
             ],
             "children": [
@@ -1443,24 +1606,24 @@
                     "typeGuid": "e81f4e62-fee0-4182-9c1a-a47c053b813f",
                     "instanceGuid": "54624d61-d050-4dce-9bf4-e3d1194c4dbf",
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7",
+                        "comOffset": [
+                            0.0
+                        ]
                     },
                     "e81f4e62-fee0-4182-9c1a-a47c053b813f": {
-                        "size": [
-                            0.25
-                        ],
                         "half_extent": [
                             0.25
                         ]
                     },
                     "data_components": [
                         {
-                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                            "templateInstanceGuid": "54624d61-d050-4dce-9bf4-e3d1194c4dbf"
-                        },
-                        {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "Teleport Collider"
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "54624d61-d050-4dce-9bf4-e3d1194c4dbf"
                         }
                     ]
                 }

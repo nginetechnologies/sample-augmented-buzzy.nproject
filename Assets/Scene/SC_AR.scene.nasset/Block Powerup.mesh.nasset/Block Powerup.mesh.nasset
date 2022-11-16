@@ -1,16 +1,16 @@
 {
-    "guid": "29bca0e4-133d-8c87-24fc-01e0582397ce",
+    "guid": "1c558eba-d9d9-5c69-0e2f-10ce124fd63e",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "7705ce5d-245a-a467-2c8a-3af16cc32576",
+    "instanceGuid": "8922cb2f-ab77-f41d-0b79-2adaa13b6a4a",
     "data_components": [],
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "78d54415-0f7c-ccf5-5282-d2f96a380ac3",
+            "instanceGuid": "746436ff-e3ff-a0c3-5603-7c0c64462f94",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -24,21 +24,21 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "1de4366b-e7e7-83b8-48a2-a1492088d7ac",
+                    "instanceGuid": "75abd072-6bd3-60d1-4940-233c2e41701c",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Block Powerup Rose 500 Collider"
+                            "name": "Block Powerup Red Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "155be40a-1453-9031-c535-af49379034b7",
+                            "instanceGuid": "bc7db00a-184a-7b5c-4592-6044bf493364",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Block Powerup Rose 500"
+                                    "name": "Block Powerup Red"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -48,13 +48,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "826aa218-5f0f-5f67-8e65-7512b33c338c",
-                                "material_instance": "5fe9ed06-99fa-4dc3-2609-5eb7177d67c8"
+                                "mesh": "e869689c-131c-706e-df25-f58624c4ef31",
+                                "material_instance": "2d9165d9-07af-7c0c-76eb-59b9590f7a8a"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "826aa218-5f0f-5f67-8e65-7512b33c338c"
+                        "mesh": "e869689c-131c-706e-df25-f58624c4ef31"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -62,21 +62,21 @@
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "65f708ef-a155-6ebb-d7cd-08caf18e6a08",
+                    "instanceGuid": "2ebd61c5-1ed1-8f25-8591-55c29d760d82",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Block Powerup Lime 500 Collider"
+                            "name": "Block Powerup White Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "13d2a624-2752-2527-016c-0ac5b36aad79",
+                            "instanceGuid": "05085383-1467-010b-eb94-f5a4ca495dc4",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Block Powerup Lime 500"
+                                    "name": "Block Powerup White"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -86,13 +86,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "1fc43e06-1c5a-64ca-76ff-1baad2a06f9a",
-                                "material_instance": "bff4405d-35db-37ef-2032-7c0a4d0b36ba"
+                                "mesh": "54a569f3-2795-720d-5f18-8969d8b268f0",
+                                "material_instance": "c63c887d-9e73-edab-79be-9f992a216f36"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "1fc43e06-1c5a-64ca-76ff-1baad2a06f9a"
+                        "mesh": "54a569f3-2795-720d-5f18-8969d8b268f0"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -102,7 +102,6 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "29bca0e4-133d-8c87-24fc-01e0582397ce"
-    },
-    "thumbnailGuid": "2b36501a-300e-e0ea-0c29-19538879417e"
+        "scene": "1c558eba-d9d9-5c69-0e2f-10ce124fd63e"
+    }
 }

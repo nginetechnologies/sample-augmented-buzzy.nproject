@@ -1,16 +1,16 @@
 {
-    "guid": "ca191aba-c272-a744-9d6a-6c75826b4123",
+    "guid": "198be309-fd60-9e64-327a-a68901be2e8c",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "f4aa5d19-2e8c-7f0c-bd2f-28abe5c5ea98",
+    "instanceGuid": "9b6fe85c-ac67-064a-0bc0-b3e51892fd88",
     "data_components": [],
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "75e4c0b6-4f0c-7c74-4241-a697c0b2a0ae",
+            "instanceGuid": "46296e8e-d452-64a7-27cd-691b1e3b2044",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -24,21 +24,21 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "49aaa0a5-e170-0947-4681-3a7d0455c99e",
+                    "instanceGuid": "98d4440d-46a4-bd35-ee20-3dbd5f5effb8",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Tree Purple Fuschia 500 Collider"
+                            "name": "Tree Purple Brown Dark Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "9dce5676-199a-94b7-9945-36c00654fddb",
+                            "instanceGuid": "17f98528-469d-bae7-eb64-621ac15b9454",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Tree Purple Fuschia 500"
+                                    "name": "Tree Purple Brown Dark"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -48,13 +48,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "3f1dc2ae-eece-973b-8481-4e4afb59fed2",
-                                "material_instance": "34b24a59-14e3-f561-67d5-12330e8c49e4"
+                                "mesh": "6fad9fa5-75dc-7c43-1dca-cd43b584825e",
+                                "material_instance": "bed12970-6e83-a74d-fa72-cd86610c64e0"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "3f1dc2ae-eece-973b-8481-4e4afb59fed2"
+                        "mesh": "6fad9fa5-75dc-7c43-1dca-cd43b584825e"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -62,21 +62,21 @@
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "2f6fcbd1-8aa4-d1e7-428e-187ec712c062",
+                    "instanceGuid": "21a98ac7-5e94-c905-928d-bd0c7a74538c",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Tree Purple Purple 500 Collider"
+                            "name": "Tree Purple Green Pale Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "97186f59-4eec-4ba7-6dce-0744b32eb3b8",
+                            "instanceGuid": "e3268a8e-7d71-ec26-00ee-106a18020a55",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Tree Purple Purple 500"
+                                    "name": "Tree Purple Green Pale"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -86,13 +86,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "67416cfd-b7fa-90db-db7a-7f8fc5bc0b61",
-                                "material_instance": "ed9d9686-74c1-0eb0-2ba2-7b74846399b4"
+                                "mesh": "fe691080-6461-a09a-73a6-6794dcdc6fdc",
+                                "material_instance": "89ae9896-9f5b-71f6-da12-51f8c7e52b1f"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "67416cfd-b7fa-90db-db7a-7f8fc5bc0b61"
+                        "mesh": "fe691080-6461-a09a-73a6-6794dcdc6fdc"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -102,7 +102,6 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "ca191aba-c272-a744-9d6a-6c75826b4123"
-    },
-    "thumbnailGuid": "dfd058ea-4876-0b0c-3019-37289809d2d3"
+        "scene": "198be309-fd60-9e64-327a-a68901be2e8c"
+    }
 }

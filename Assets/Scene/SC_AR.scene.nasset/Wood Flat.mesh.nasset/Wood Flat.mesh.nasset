@@ -1,16 +1,16 @@
 {
-    "guid": "62bbc3e5-4c90-bf00-e186-0556b19c0713",
+    "guid": "774f3c39-7185-5cb5-6f70-401e2dc358d3",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "ee316437-6a04-6efd-eb4f-d9a05609c411",
+    "instanceGuid": "8e8d6257-da88-a661-7f1a-fe416ff21b23",
     "data_components": [],
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "2acc44bb-0587-3f19-e38f-c63e7b02dced",
+            "instanceGuid": "6632fad9-ffcb-c127-f2ff-dc0fa04f7329",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -24,21 +24,21 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "c2ca0414-5418-4716-1332-b37d98f1cc55",
+                    "instanceGuid": "33b4efef-f521-3919-8941-4e1bffc98ff5",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Wood Flat Purple 500 Collider"
+                            "name": "Wood Flat Tan Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "5c3dabd7-70e1-1261-5b3f-0bcf2a5e48c8",
+                            "instanceGuid": "b71139b9-b72a-d602-1b97-542a6a8e44ed",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Wood Flat Purple 500"
+                                    "name": "Wood Flat Tan"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -48,13 +48,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "3b8063c9-ae9e-5461-4617-469bfc919877",
-                                "material_instance": "ed9d9686-74c1-0eb0-2ba2-7b74846399b4"
+                                "mesh": "9433242f-5857-3195-94cf-e95aaa62ee7c",
+                                "material_instance": "29e8dd1d-19b4-d43b-211c-b5d4c8cb1f52"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "3b8063c9-ae9e-5461-4617-469bfc919877"
+                        "mesh": "9433242f-5857-3195-94cf-e95aaa62ee7c"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -62,21 +62,21 @@
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "6b5ea882-7956-072d-8381-70c05c526beb",
+                    "instanceGuid": "a849851d-2117-632d-af81-7d21b96256a6",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Wood Flat Pink 600 Collider"
+                            "name": "Wood Flat Orange Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "210b1036-3717-20d9-b810-b1542018edb6",
+                            "instanceGuid": "e3b490cc-aec9-0707-f305-bd4434e6b289",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Wood Flat Pink 600"
+                                    "name": "Wood Flat Orange"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -86,13 +86,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "f3deafff-bd76-2c7b-2fad-61f3f67888e6",
-                                "material_instance": "10e0789d-3786-a324-4bd5-0efa8c47d56f"
+                                "mesh": "36c78d7a-98f1-955a-dbb8-8f3eb0a490e3",
+                                "material_instance": "f09b7b1e-3861-e79b-0d89-1bc3d2be3232"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "f3deafff-bd76-2c7b-2fad-61f3f67888e6"
+                        "mesh": "36c78d7a-98f1-955a-dbb8-8f3eb0a490e3"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -102,7 +102,6 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "62bbc3e5-4c90-bf00-e186-0556b19c0713"
-    },
-    "thumbnailGuid": "308c32b4-10a2-f683-c1c5-c5184ef5b9a5"
+        "scene": "774f3c39-7185-5cb5-6f70-401e2dc358d3"
+    }
 }

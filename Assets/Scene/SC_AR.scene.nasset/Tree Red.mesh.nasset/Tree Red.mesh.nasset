@@ -1,16 +1,16 @@
 {
-    "guid": "8b2c404c-a44b-987c-02ff-3aede31a1ac6",
+    "guid": "99814c42-4be2-f2bb-2118-1abfdfc9e32b",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "426f7b4f-e512-c0f0-8586-f48f8e22214d",
+    "instanceGuid": "bb8066ac-985f-7df5-15f5-524351f2d729",
     "data_components": [],
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "f26b8fbb-109c-2638-a7b4-efa375ec5cc8",
+            "instanceGuid": "033c0d9f-ef41-302d-fc7f-001d51c1ca35",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -24,21 +24,21 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "b23c5cd5-5ac1-667d-ce2a-95e3628af208",
+                    "instanceGuid": "b60181a8-7ffa-88f7-5e2a-3085837906df",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Tree Red Fuschia 500 Collider"
+                            "name": "Tree Red Brown Dark Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "28f0942f-c907-5a7a-2d6c-d27981c57b17",
+                            "instanceGuid": "32ef539a-2064-b21c-55fb-beaabb3605d6",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Tree Red Fuschia 500"
+                                    "name": "Tree Red Brown Dark"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -48,13 +48,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "37928793-77dc-8ddd-c362-1db340357fec",
-                                "material_instance": "34b24a59-14e3-f561-67d5-12330e8c49e4"
+                                "mesh": "c0983b56-5118-3615-b6f3-50154329a021",
+                                "material_instance": "bed12970-6e83-a74d-fa72-cd86610c64e0"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "37928793-77dc-8ddd-c362-1db340357fec"
+                        "mesh": "c0983b56-5118-3615-b6f3-50154329a021"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -62,21 +62,21 @@
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "272966dc-1779-bfd5-35b3-fa2a31febe0f",
+                    "instanceGuid": "3e5fc2fc-4667-a863-d9ed-26126fcb0e84",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Tree Red Red 500 Collider"
+                            "name": "Tree Red Green Bright Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "1540ae55-1bd6-0990-3c1c-e843730e44d8",
+                            "instanceGuid": "1c261d98-55a4-15e3-e2cd-4cc0316a009a",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Tree Red Red 500"
+                                    "name": "Tree Red Green Bright"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -86,13 +86,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "5fa846d3-d94f-c7e4-0eaa-2ca60da0bf02",
-                                "material_instance": "24137162-133a-0f22-6d95-0d005c86f0ad"
+                                "mesh": "7ff6a759-351e-1be3-5d7d-a11fbd788939",
+                                "material_instance": "4d8766bc-d71e-c1a9-67fd-1b18a714a81b"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "5fa846d3-d94f-c7e4-0eaa-2ca60da0bf02"
+                        "mesh": "7ff6a759-351e-1be3-5d7d-a11fbd788939"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -102,7 +102,6 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "8b2c404c-a44b-987c-02ff-3aede31a1ac6"
-    },
-    "thumbnailGuid": "c1794e24-c7e3-2dcb-d9b0-657b321dd21a"
+        "scene": "99814c42-4be2-f2bb-2118-1abfdfc9e32b"
+    }
 }
